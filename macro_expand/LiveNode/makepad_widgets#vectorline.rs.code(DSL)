@@ -1,0 +1,2 @@
+makepad_widgets::vectorline Live DSL
+"VectorLine ={{dummy}}{width :Fill ,height :Fill ,line_align :Top ,color :#f ,line_width :10}"

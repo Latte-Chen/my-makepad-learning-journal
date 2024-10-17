@@ -1,0 +1,2 @@
+makepad_widgets::debug_view Live DSL
+"import makepad_draw ::shader ::std ::*;DrawRect ={{dummy}}{fn pixel(self) ->vec4{let sdf =Sdf2d ::viewport(self .pos *self .rect_size) sdf .rect(0. ,0. ,self .rect_size .x ,self .rect_size .y) ;sdf .stroke(self .color ,1.0) ;return sdf .result ;} draw_depth :20.0}DebugView ={{dummy}}{label :{text_style :{font_size :6},color :#a}}"

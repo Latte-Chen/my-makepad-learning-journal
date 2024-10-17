@@ -1,0 +1,65 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:5)) first_def:Some(TokenId(token_index:0, file_id:5)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:5)) first_def:Some(TokenId(token_index:0, file_id:5)) edit_info:None prop_type:Instance,
+        id: GeometryQuad2D,
+        value: Class {
+            live_type: TypeId(0xae3cd2a9152ed2fbd56065230cf32a19),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:5)) first_def:Some(TokenId(token_index:8, file_id:5)) edit_info:None prop_type:Field,
+        id: x1,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:12, file_id:5)) first_def:Some(TokenId(token_index:12, file_id:5)) edit_info:None prop_type:Field,
+        id: y1,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:16, file_id:5)) first_def:Some(TokenId(token_index:16, file_id:5)) edit_info:None prop_type:Field,
+        id: x2,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:20, file_id:5)) first_def:Some(TokenId(token_index:20, file_id:5)) edit_info:None prop_type:Field,
+        id: y2,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:24, file_id:5)) first_def:Some(TokenId(token_index:24, file_id:5)) edit_info:None prop_type:Field,
+        id: GeometryQuad2D,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:25, file_id:5)) first_def:Some(TokenId(token_index:25, file_id:5)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

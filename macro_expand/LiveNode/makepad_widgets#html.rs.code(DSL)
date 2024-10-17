@@ -1,0 +1,2 @@
+makepad_widgets::html Live DSL
+"import makepad_widgets ::link_label ::LinkLabelBase ;HtmlLinkBase ={{dummy}}{link ={draw_text ={color :#1a0dab}}}HtmlBase ={{dummy}}{ul_markers :[\"•\" ,\"-\"],ol_markers :[Numbers ,LowerAlpha ,LowerRoman],ol_separator :\".\" ,}"

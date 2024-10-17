@@ -1,0 +1,61 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:55)) first_def:Some(TokenId(token_index:0, file_id:55)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:55)) first_def:Some(TokenId(token_index:0, file_id:55)) edit_info:None prop_type:Instance,
+        id: StackNavigationViewBase,
+        value: Class {
+            live_type: TypeId(0xcc630408948a7bd085194077ec018af9),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:55)) first_def:Some(TokenId(token_index:8, file_id:55)) edit_info:None prop_type:Field,
+        id: StackNavigationViewBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:55)) first_def:Some(TokenId(token_index:9, file_id:55)) edit_info:None prop_type:Instance,
+        id: StackNavigationBase,
+        value: Class {
+            live_type: TypeId(0x37d79896785166101948b4f957a50d47),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:17, file_id:55)) first_def:Some(TokenId(token_index:17, file_id:55)) edit_info:None prop_type:Field,
+        id: StackNavigationBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:18, file_id:55)) first_def:Some(TokenId(token_index:18, file_id:55)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

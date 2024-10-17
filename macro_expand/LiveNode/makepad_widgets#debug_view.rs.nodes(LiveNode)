@@ -1,0 +1,124 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:9)) first_def:Some(TokenId(token_index:0, file_id:9)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1, file_id:9)) first_def:Some(TokenId(token_index:1, file_id:9)) edit_info:None prop_type:Instance,
+        id: 0,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_draw,
+                    shader::std,
+                ),
+                import_id: 0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:9)) first_def:Some(TokenId(token_index:9, file_id:9)) edit_info:None prop_type:Instance,
+        id: DrawRect,
+        value: Class {
+            live_type: TypeId(0x6c33b2b1aa7cf4d3846b89a2a6d4ddcd),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:18, file_id:9)) first_def:Some(TokenId(token_index:18, file_id:9)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 17,
+            token_count: 61,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:78, file_id:9)) first_def:Some(TokenId(token_index:78, file_id:9)) edit_info:None prop_type:Field,
+        id: draw_depth,
+        value: Float64(
+            20.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:81, file_id:9)) first_def:Some(TokenId(token_index:81, file_id:9)) edit_info:None prop_type:Field,
+        id: DrawRect,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:82, file_id:9)) first_def:Some(TokenId(token_index:82, file_id:9)) edit_info:None prop_type:Instance,
+        id: DebugView,
+        value: Class {
+            live_type: TypeId(0xabaa8abe128b7dff42938d13e525984c),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:90, file_id:9)) first_def:Some(TokenId(token_index:90, file_id:9)) edit_info:None prop_type:Field,
+        id: label,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:93, file_id:9)) first_def:Some(TokenId(token_index:93, file_id:9)) edit_info:None prop_type:Field,
+        id: text_style,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:96, file_id:9)) first_def:Some(TokenId(token_index:96, file_id:9)) edit_info:None prop_type:Field,
+        id: font_size,
+        value: Int64(
+            6,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:99, file_id:9)) first_def:Some(TokenId(token_index:99, file_id:9)) edit_info:None prop_type:Field,
+        id: text_style,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:101, file_id:9)) first_def:Some(TokenId(token_index:101, file_id:9)) edit_info:None prop_type:Field,
+        id: color,
+        value: Color(
+            2863311615,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:104, file_id:9)) first_def:Some(TokenId(token_index:104, file_id:9)) edit_info:None prop_type:Field,
+        id: label,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:105, file_id:9)) first_def:Some(TokenId(token_index:105, file_id:9)) edit_info:None prop_type:Field,
+        id: DebugView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:106, file_id:9)) first_def:Some(TokenId(token_index:106, file_id:9)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

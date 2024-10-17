@@ -1,0 +1,1573 @@
+Cx::live_registry::live_files[LiveFileId]::original::tokens
+[
+    TokenWithSpan {
+        span: Span(start:6:0, end:6:6, file_id:10),
+        token: Ident(
+            import,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:7, end:6:19, file_id:10),
+        token: Ident(
+            makepad_draw,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:20, end:6:22, file_id:10),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:22, end:6:28, file_id:10),
+        token: Ident(
+            shader,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:29, end:6:31, file_id:10),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:31, end:6:34, file_id:10),
+        token: Ident(
+            std,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:35, end:6:37, file_id:10),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:37, end:6:38, file_id:10),
+        token: Punct(
+            *,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:38, end:6:39, file_id:10),
+        token: Punct(
+            ;,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:39, end:6:45, file_id:10),
+        token: Ident(
+            import,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:46, end:6:61, file_id:10),
+        token: Ident(
+            makepad_widgets,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:62, end:6:64, file_id:10),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:64, end:6:69, file_id:10),
+        token: Ident(
+            label,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:70, end:6:72, file_id:10),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:72, end:6:81, file_id:10),
+        token: Ident(
+            LabelBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:82, end:6:83, file_id:10),
+        token: Punct(
+            ;,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:83, end:6:89, file_id:10),
+        token: Ident(
+            import,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:90, end:6:105, file_id:10),
+        token: Ident(
+            makepad_widgets,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:106, end:6:108, file_id:10),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:108, end:6:112, file_id:10),
+        token: Ident(
+            view,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:113, end:6:115, file_id:10),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:115, end:6:123, file_id:10),
+        token: Ident(
+            ViewBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:124, end:6:125, file_id:10),
+        token: Punct(
+            ;,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:125, end:6:137, file_id:10),
+        token: Ident(
+            REGULAR_TEXT,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:138, end:6:139, file_id:10),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:139, end:6:140, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:140, end:6:149, file_id:10),
+        token: Ident(
+            font_size,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:150, end:6:151, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:151, end:6:153, file_id:10),
+        token: Int(
+            10,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:154, end:6:155, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:155, end:6:159, file_id:10),
+        token: Ident(
+            font,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:160, end:6:161, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:161, end:6:162, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:162, end:6:166, file_id:10),
+        token: Ident(
+            path,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:167, end:6:168, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:168, end:6:171, file_id:10),
+        token: Ident(
+            dep,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:171, end:6:172, file_id:10),
+        token: Open(
+            Paren,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:172, end:6:233, file_id:10),
+        token: String(
+            "crate://makepad-widgets/resources/GoNotoKurrent-Regular.ttf",
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:233, end:6:234, file_id:10),
+        token: Close(
+            Paren,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:234, end:6:235, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:235, end:6:236, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:236, end:6:256, file_id:10),
+        token: Ident(
+            PerformanceLiveGraph,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:257, end:6:258, file_id:10),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:258, end:6:259, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:259, end:6:260, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:260, end:6:265, file_id:10),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:265, end:6:266, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:266, end:6:267, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:267, end:6:268, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:268, end:6:283, file_id:10),
+        token: Ident(
+            data_increments,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:284, end:6:285, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:285, end:6:288, file_id:10),
+        token: Float(
+            16.0,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:289, end:6:298, file_id:10),
+        token: Ident(
+            bar_width,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:299, end:6:300, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:300, end:6:302, file_id:10),
+        token: Float(
+            3.0,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:303, end:6:314, file_id:10),
+        token: Ident(
+            graph_label,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:315, end:6:316, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:316, end:6:318, file_id:10),
+        token: String(
+            "",
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:319, end:6:332, file_id:10),
+        token: Ident(
+            data_y_suffix,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:333, end:6:334, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:334, end:6:336, file_id:10),
+        token: String(
+            "",
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:337, end:6:342, file_id:10),
+        token: Ident(
+            width,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:343, end:6:344, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:344, end:6:347, file_id:10),
+        token: Int(
+            300,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:348, end:6:349, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:349, end:6:355, file_id:10),
+        token: Ident(
+            height,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:356, end:6:357, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:357, end:6:359, file_id:10),
+        token: Int(
+            65,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:360, end:6:361, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:361, end:6:367, file_id:10),
+        token: Ident(
+            margin,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:368, end:6:369, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:369, end:6:371, file_id:10),
+        token: Int(
+            30,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:372, end:6:373, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:373, end:6:380, file_id:10),
+        token: Ident(
+            abs_pos,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:381, end:6:382, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:382, end:6:386, file_id:10),
+        token: Ident(
+            vec2,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:386, end:6:387, file_id:10),
+        token: Open(
+            Paren,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:387, end:6:388, file_id:10),
+        token: Int(
+            0,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:389, end:6:390, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:390, end:6:391, file_id:10),
+        token: Int(
+            0,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:391, end:6:392, file_id:10),
+        token: Close(
+            Paren,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:393, end:6:400, file_id:10),
+        token: Ident(
+            show_bg,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:401, end:6:402, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:402, end:6:406, file_id:10),
+        token: Bool(
+            true,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:407, end:6:408, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:408, end:6:415, file_id:10),
+        token: Ident(
+            draw_bg,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:416, end:6:417, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:417, end:6:418, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:418, end:6:423, file_id:10),
+        token: Ident(
+            color,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:424, end:6:425, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:425, end:6:429, file_id:10),
+        token: Ident(
+            vec4,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:429, end:6:430, file_id:10),
+        token: Open(
+            Paren,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:430, end:6:433, file_id:10),
+        token: Float(
+            0.8,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:434, end:6:435, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:435, end:6:438, file_id:10),
+        token: Float(
+            0.8,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:439, end:6:440, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:440, end:6:443, file_id:10),
+        token: Float(
+            0.8,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:444, end:6:445, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:445, end:6:448, file_id:10),
+        token: Float(
+            0.8,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:448, end:6:449, file_id:10),
+        token: Close(
+            Paren,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:449, end:6:450, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:450, end:6:454, file_id:10),
+        token: Ident(
+            view,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:455, end:6:456, file_id:10),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:456, end:6:457, file_id:10),
+        token: Punct(
+            <,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:457, end:6:465, file_id:10),
+        token: Ident(
+            ViewBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:466, end:6:467, file_id:10),
+        token: Punct(
+            >,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:467, end:6:468, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:468, end:6:474, file_id:10),
+        token: Ident(
+            margin,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:475, end:6:476, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:476, end:6:477, file_id:10),
+        token: Int(
+            5,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:478, end:6:479, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:479, end:6:486, file_id:10),
+        token: Ident(
+            visible,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:487, end:6:488, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:488, end:6:492, file_id:10),
+        token: Bool(
+            true,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:493, end:6:497, file_id:10),
+        token: Ident(
+            flow,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:498, end:6:499, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:499, end:6:504, file_id:10),
+        token: Ident(
+            Right,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:505, end:6:510, file_id:10),
+        token: Ident(
+            width,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:511, end:6:512, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:512, end:6:516, file_id:10),
+        token: Ident(
+            Fill,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:517, end:6:518, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:518, end:6:524, file_id:10),
+        token: Ident(
+            height,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:525, end:6:526, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:526, end:6:530, file_id:10),
+        token: Ident(
+            Fill,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:531, end:6:532, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:532, end:6:543, file_id:10),
+        token: Ident(
+            graph_label,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:544, end:6:545, file_id:10),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:545, end:6:546, file_id:10),
+        token: Punct(
+            <,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:546, end:6:555, file_id:10),
+        token: Ident(
+            LabelBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:556, end:6:557, file_id:10),
+        token: Punct(
+            >,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:557, end:6:558, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:558, end:6:563, file_id:10),
+        token: Ident(
+            width,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:564, end:6:565, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:565, end:6:568, file_id:10),
+        token: Ident(
+            Fit,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:569, end:6:574, file_id:10),
+        token: Ident(
+            align,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:575, end:6:576, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:576, end:6:577, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:577, end:6:578, file_id:10),
+        token: Ident(
+            x,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:579, end:6:580, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:580, end:6:582, file_id:10),
+        token: Float(
+            0.0,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:583, end:6:584, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:584, end:6:585, file_id:10),
+        token: Ident(
+            y,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:586, end:6:587, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:587, end:6:589, file_id:10),
+        token: Float(
+            1.0,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:589, end:6:590, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:590, end:6:599, file_id:10),
+        token: Ident(
+            draw_text,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:600, end:6:601, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:601, end:6:602, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:602, end:6:612, file_id:10),
+        token: Ident(
+            text_style,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:613, end:6:614, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:614, end:6:615, file_id:10),
+        token: Punct(
+            <,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:615, end:6:627, file_id:10),
+        token: Ident(
+            REGULAR_TEXT,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:628, end:6:629, file_id:10),
+        token: Punct(
+            >,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:629, end:6:630, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:630, end:6:639, file_id:10),
+        token: Ident(
+            font_size,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:640, end:6:641, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:641, end:6:642, file_id:10),
+        token: Int(
+            8,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:642, end:6:643, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:643, end:6:644, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:644, end:6:649, file_id:10),
+        token: Ident(
+            color,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:650, end:6:651, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:651, end:6:655, file_id:10),
+        token: Color(
+            286331391,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:655, end:6:656, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:656, end:6:660, file_id:10),
+        token: Ident(
+            text,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:661, end:6:662, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:662, end:6:664, file_id:10),
+        token: String(
+            "",
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:664, end:6:665, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:665, end:6:666, file_id:10),
+        token: Punct(
+            <,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:666, end:6:674, file_id:10),
+        token: Ident(
+            ViewBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:675, end:6:676, file_id:10),
+        token: Punct(
+            >,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:676, end:6:677, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:677, end:6:682, file_id:10),
+        token: Ident(
+            width,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:683, end:6:684, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:684, end:6:688, file_id:10),
+        token: Ident(
+            Fill,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:689, end:6:690, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:690, end:6:696, file_id:10),
+        token: Ident(
+            height,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:697, end:6:698, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:698, end:6:701, file_id:10),
+        token: Ident(
+            Fit,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:701, end:6:702, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:702, end:6:717, file_id:10),
+        token: Ident(
+            current_y_entry,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:718, end:6:719, file_id:10),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:719, end:6:720, file_id:10),
+        token: Punct(
+            <,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:720, end:6:729, file_id:10),
+        token: Ident(
+            LabelBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:730, end:6:731, file_id:10),
+        token: Punct(
+            >,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:731, end:6:732, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:732, end:6:737, file_id:10),
+        token: Ident(
+            width,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:738, end:6:739, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:739, end:6:742, file_id:10),
+        token: Ident(
+            Fit,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:743, end:6:748, file_id:10),
+        token: Ident(
+            align,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:749, end:6:750, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:750, end:6:751, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:751, end:6:752, file_id:10),
+        token: Ident(
+            x,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:753, end:6:754, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:754, end:6:756, file_id:10),
+        token: Float(
+            1.0,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:757, end:6:758, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:758, end:6:759, file_id:10),
+        token: Ident(
+            y,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:760, end:6:761, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:761, end:6:762, file_id:10),
+        token: Int(
+            1,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:762, end:6:763, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:763, end:6:772, file_id:10),
+        token: Ident(
+            draw_text,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:773, end:6:774, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:774, end:6:775, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:775, end:6:785, file_id:10),
+        token: Ident(
+            text_style,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:786, end:6:787, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:787, end:6:788, file_id:10),
+        token: Punct(
+            <,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:788, end:6:800, file_id:10),
+        token: Ident(
+            REGULAR_TEXT,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:801, end:6:802, file_id:10),
+        token: Punct(
+            >,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:802, end:6:803, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:803, end:6:812, file_id:10),
+        token: Ident(
+            font_size,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:813, end:6:814, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:814, end:6:815, file_id:10),
+        token: Int(
+            8,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:815, end:6:816, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:816, end:6:817, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:817, end:6:822, file_id:10),
+        token: Ident(
+            color,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:823, end:6:824, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:824, end:6:828, file_id:10),
+        token: Color(
+            286331391,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:828, end:6:829, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:829, end:6:833, file_id:10),
+        token: Ident(
+            text,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:834, end:6:835, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:835, end:6:838, file_id:10),
+        token: String(
+            "-",
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:838, end:6:839, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:839, end:6:840, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:840, end:6:841, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:841, end:6:856, file_id:10),
+        token: Ident(
+            PerformanceView,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:857, end:6:858, file_id:10),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:858, end:6:859, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:859, end:6:860, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:860, end:6:865, file_id:10),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:865, end:6:866, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:866, end:6:867, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:867, end:6:868, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:868, end:6:873, file_id:10),
+        token: Ident(
+            width,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:874, end:6:875, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:875, end:6:878, file_id:10),
+        token: Ident(
+            Fit,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:879, end:6:880, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:880, end:6:886, file_id:10),
+        token: Ident(
+            height,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:887, end:6:888, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:888, end:6:891, file_id:10),
+        token: Ident(
+            Fit,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:892, end:6:893, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:893, end:6:900, file_id:10),
+        token: Ident(
+            abs_pos,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:901, end:6:902, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:902, end:6:906, file_id:10),
+        token: Ident(
+            vec2,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:906, end:6:907, file_id:10),
+        token: Open(
+            Paren,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:907, end:6:908, file_id:10),
+        token: Int(
+            0,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:909, end:6:910, file_id:10),
+        token: Punct(
+            ,,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:910, end:6:911, file_id:10),
+        token: Int(
+            0,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:911, end:6:912, file_id:10),
+        token: Close(
+            Paren,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:913, end:6:918, file_id:10),
+        token: Ident(
+            graph,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:919, end:6:920, file_id:10),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:920, end:6:921, file_id:10),
+        token: Punct(
+            <,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:921, end:6:941, file_id:10),
+        token: Ident(
+            PerformanceLiveGraph,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:942, end:6:943, file_id:10),
+        token: Punct(
+            >,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:943, end:6:944, file_id:10),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:944, end:6:955, file_id:10),
+        token: Ident(
+            graph_label,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:956, end:6:957, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:957, end:6:990, file_id:10),
+        token: String(
+            "Frame time (max in last second)",
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:991, end:6:1004, file_id:10),
+        token: Ident(
+            data_y_suffix,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:1005, end:6:1006, file_id:10),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:1006, end:6:1010, file_id:10),
+        token: String(
+            "ms",
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:1010, end:6:1011, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:6:1011, end:6:1012, file_id:10),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:0:0, end:0:0, file_id:0),
+        token: Eof,
+    },
+]

@@ -1,0 +1,72 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:54)) first_def:Some(TokenId(token_index:0, file_id:54)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:54)) first_def:Some(TokenId(token_index:0, file_id:54)) edit_info:None prop_type:Instance,
+        id: VectorLine,
+        value: Class {
+            live_type: TypeId(0x5003b50f8edf621ffd1e5e5c2f1ba0e4),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:54)) first_def:Some(TokenId(token_index:8, file_id:54)) edit_info:None prop_type:Field,
+        id: width,
+        value: BareEnum(
+            Fill,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:12, file_id:54)) first_def:Some(TokenId(token_index:12, file_id:54)) edit_info:None prop_type:Field,
+        id: height,
+        value: BareEnum(
+            Fill,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:16, file_id:54)) first_def:Some(TokenId(token_index:16, file_id:54)) edit_info:None prop_type:Field,
+        id: line_align,
+        value: BareEnum(
+            Top,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:20, file_id:54)) first_def:Some(TokenId(token_index:20, file_id:54)) edit_info:None prop_type:Field,
+        id: color,
+        value: Color(
+            4294967295,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:24, file_id:54)) first_def:Some(TokenId(token_index:24, file_id:54)) edit_info:None prop_type:Field,
+        id: line_width,
+        value: Int64(
+            10,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:27, file_id:54)) first_def:Some(TokenId(token_index:27, file_id:54)) edit_info:None prop_type:Field,
+        id: VectorLine,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:28, file_id:54)) first_def:Some(TokenId(token_index:28, file_id:54)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

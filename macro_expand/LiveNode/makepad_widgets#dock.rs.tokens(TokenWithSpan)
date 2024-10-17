@@ -1,0 +1,115 @@
+Cx::live_registry::live_files[LiveFileId]::original::tokens
+[
+    TokenWithSpan {
+        span: Span(start:11:0, end:11:15, file_id:48),
+        token: Ident(
+            DrawRoundCorner,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:16, end:11:17, file_id:48),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:17, end:11:18, file_id:48),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:18, end:11:19, file_id:48),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:19, end:11:24, file_id:48),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:24, end:11:25, file_id:48),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:25, end:11:26, file_id:48),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:26, end:11:27, file_id:48),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:27, end:11:28, file_id:48),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:28, end:11:36, file_id:48),
+        token: Ident(
+            DockBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:37, end:11:38, file_id:48),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:38, end:11:39, file_id:48),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:39, end:11:40, file_id:48),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:40, end:11:45, file_id:48),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:45, end:11:46, file_id:48),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:46, end:11:47, file_id:48),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:47, end:11:48, file_id:48),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:11:48, end:11:49, file_id:48),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:0:0, end:0:0, file_id:0),
+        token: Eof,
+    },
+]

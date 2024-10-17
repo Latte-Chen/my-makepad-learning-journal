@@ -1,0 +1,126 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:7)) first_def:Some(TokenId(token_index:0, file_id:7)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:7)) first_def:Some(TokenId(token_index:0, file_id:7)) edit_info:None prop_type:Instance,
+        id: DrawTrapezoidVector,
+        value: Class {
+            live_type: TypeId(0x670b604d5d04b2165fce06046ac3daf8),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:7)) first_def:Some(TokenId(token_index:9, file_id:7)) edit_info:None prop_type:Field,
+        id: v_p0,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:14, file_id:7)) first_def:Some(TokenId(token_index:14, file_id:7)) edit_info:None prop_type:Field,
+        id: v_p1,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:19, file_id:7)) first_def:Some(TokenId(token_index:19, file_id:7)) edit_info:None prop_type:Field,
+        id: v_p2,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:24, file_id:7)) first_def:Some(TokenId(token_index:24, file_id:7)) edit_info:None prop_type:Field,
+        id: v_p3,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:29, file_id:7)) first_def:Some(TokenId(token_index:29, file_id:7)) edit_info:None prop_type:Field,
+        id: v_pixel,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:34, file_id:7)) first_def:Some(TokenId(token_index:34, file_id:7)) edit_info:None prop_type:Instance,
+        id: intersect_line_segment_with_vertical_line,
+        value: DSL {
+            token_start: 33,
+            token_count: 54,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:88, file_id:7)) first_def:Some(TokenId(token_index:88, file_id:7)) edit_info:None prop_type:Instance,
+        id: intersect_line_segment_with_horizontal_line,
+        value: DSL {
+            token_start: 87,
+            token_count: 54,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:142, file_id:7)) first_def:Some(TokenId(token_index:142, file_id:7)) edit_info:None prop_type:Instance,
+        id: compute_clamped_right_trapezoid_area,
+        value: DSL {
+            token_start: 141,
+            token_count: 355,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:497, file_id:7)) first_def:Some(TokenId(token_index:497, file_id:7)) edit_info:None prop_type:Instance,
+        id: compute_clamped_trapezoid_area,
+        value: DSL {
+            token_start: 496,
+            token_count: 58,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:555, file_id:7)) first_def:Some(TokenId(token_index:555, file_id:7)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 554,
+            token_count: 115,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:670, file_id:7)) first_def:Some(TokenId(token_index:670, file_id:7)) edit_info:None prop_type:Instance,
+        id: vertex,
+        value: DSL {
+            token_start: 669,
+            token_count: 177,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:846, file_id:7)) first_def:Some(TokenId(token_index:846, file_id:7)) edit_info:None prop_type:Field,
+        id: DrawTrapezoidVector,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:847, file_id:7)) first_def:Some(TokenId(token_index:847, file_id:7)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

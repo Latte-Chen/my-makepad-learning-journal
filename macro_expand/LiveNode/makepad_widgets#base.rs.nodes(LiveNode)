@@ -1,0 +1,4744 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:13)) first_def:Some(TokenId(token_index:0, file_id:13)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1, file_id:13)) first_def:Some(TokenId(token_index:1, file_id:13)) edit_info:None prop_type:Instance,
+        id: ButtonBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    button,
+                ),
+                import_id: ButtonBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:13)) first_def:Some(TokenId(token_index:8, file_id:13)) edit_info:None prop_type:Instance,
+        id: CheckBoxBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    check_box,
+                ),
+                import_id: CheckBoxBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:15, file_id:13)) first_def:Some(TokenId(token_index:15, file_id:13)) edit_info:None prop_type:Instance,
+        id: DockBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    dock,
+                ),
+                import_id: DockBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:22, file_id:13)) first_def:Some(TokenId(token_index:22, file_id:13)) edit_info:None prop_type:Instance,
+        id: SplitterBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    splitter,
+                ),
+                import_id: SplitterBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:29, file_id:13)) first_def:Some(TokenId(token_index:29, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesktopButtonBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    desktop_button,
+                ),
+                import_id: DesktopButtonBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:36, file_id:13)) first_def:Some(TokenId(token_index:36, file_id:13)) edit_info:None prop_type:Instance,
+        id: WindowBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    window,
+                ),
+                import_id: WindowBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:43, file_id:13)) first_def:Some(TokenId(token_index:43, file_id:13)) edit_info:None prop_type:Instance,
+        id: MultiWindowBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    multi_window,
+                ),
+                import_id: MultiWindowBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:50, file_id:13)) first_def:Some(TokenId(token_index:50, file_id:13)) edit_info:None prop_type:Instance,
+        id: DropDownBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    drop_down,
+                ),
+                import_id: DropDownBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:57, file_id:13)) first_def:Some(TokenId(token_index:57, file_id:13)) edit_info:None prop_type:Instance,
+        id: FileTreeBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    file_tree,
+                ),
+                import_id: FileTreeBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:64, file_id:13)) first_def:Some(TokenId(token_index:64, file_id:13)) edit_info:None prop_type:Instance,
+        id: FileTreeNodeBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    file_tree,
+                ),
+                import_id: FileTreeNodeBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:71, file_id:13)) first_def:Some(TokenId(token_index:71, file_id:13)) edit_info:None prop_type:Instance,
+        id: FoldButtonBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    fold_button,
+                ),
+                import_id: FoldButtonBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:78, file_id:13)) first_def:Some(TokenId(token_index:78, file_id:13)) edit_info:None prop_type:Instance,
+        id: FoldHeaderBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    fold_header,
+                ),
+                import_id: FoldHeaderBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:85, file_id:13)) first_def:Some(TokenId(token_index:85, file_id:13)) edit_info:None prop_type:Instance,
+        id: ImageBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    image,
+                ),
+                import_id: ImageBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:92, file_id:13)) first_def:Some(TokenId(token_index:92, file_id:13)) edit_info:None prop_type:Instance,
+        id: MultiImageBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    multi_image,
+                ),
+                import_id: MultiImageBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:99, file_id:13)) first_def:Some(TokenId(token_index:99, file_id:13)) edit_info:None prop_type:Instance,
+        id: ImageBlendBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    image_blend,
+                ),
+                import_id: ImageBlendBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:106, file_id:13)) first_def:Some(TokenId(token_index:106, file_id:13)) edit_info:None prop_type:Instance,
+        id: IconBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    icon,
+                ),
+                import_id: IconBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:113, file_id:13)) first_def:Some(TokenId(token_index:113, file_id:13)) edit_info:None prop_type:Instance,
+        id: RotatedImageBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    rotated_image,
+                ),
+                import_id: RotatedImageBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:120, file_id:13)) first_def:Some(TokenId(token_index:120, file_id:13)) edit_info:None prop_type:Instance,
+        id: ModalBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    modal,
+                ),
+                import_id: ModalBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:127, file_id:13)) first_def:Some(TokenId(token_index:127, file_id:13)) edit_info:None prop_type:Instance,
+        id: TooltipBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    tooltip,
+                ),
+                import_id: TooltipBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:134, file_id:13)) first_def:Some(TokenId(token_index:134, file_id:13)) edit_info:None prop_type:Instance,
+        id: PopupNotificationBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    popup_notification,
+                ),
+                import_id: PopupNotificationBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:141, file_id:13)) first_def:Some(TokenId(token_index:141, file_id:13)) edit_info:None prop_type:Instance,
+        id: VideoBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    video,
+                ),
+                import_id: VideoBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:148, file_id:13)) first_def:Some(TokenId(token_index:148, file_id:13)) edit_info:None prop_type:Instance,
+        id: PopupMenuBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    popup_menu,
+                ),
+                import_id: PopupMenuBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:155, file_id:13)) first_def:Some(TokenId(token_index:155, file_id:13)) edit_info:None prop_type:Instance,
+        id: LabelBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    label,
+                ),
+                import_id: LabelBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:162, file_id:13)) first_def:Some(TokenId(token_index:162, file_id:13)) edit_info:None prop_type:Instance,
+        id: LinkLabelBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    link_label,
+                ),
+                import_id: LinkLabelBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:169, file_id:13)) first_def:Some(TokenId(token_index:169, file_id:13)) edit_info:None prop_type:Instance,
+        id: PortalListBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    portal_list,
+                ),
+                import_id: PortalListBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:176, file_id:13)) first_def:Some(TokenId(token_index:176, file_id:13)) edit_info:None prop_type:Instance,
+        id: FlatListBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    flat_list,
+                ),
+                import_id: FlatListBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:183, file_id:13)) first_def:Some(TokenId(token_index:183, file_id:13)) edit_info:None prop_type:Instance,
+        id: ScrollBarsBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    scroll_bars,
+                ),
+                import_id: ScrollBarsBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:190, file_id:13)) first_def:Some(TokenId(token_index:190, file_id:13)) edit_info:None prop_type:Instance,
+        id: ViewBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    view,
+                ),
+                import_id: ViewBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:197, file_id:13)) first_def:Some(TokenId(token_index:197, file_id:13)) edit_info:None prop_type:Instance,
+        id: NavControlBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    nav_control,
+                ),
+                import_id: NavControlBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:204, file_id:13)) first_def:Some(TokenId(token_index:204, file_id:13)) edit_info:None prop_type:Instance,
+        id: PopupMenuItemBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    popup_menu,
+                ),
+                import_id: PopupMenuItemBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:211, file_id:13)) first_def:Some(TokenId(token_index:211, file_id:13)) edit_info:None prop_type:Instance,
+        id: PopupMenuBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    popup_menu,
+                ),
+                import_id: PopupMenuBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:218, file_id:13)) first_def:Some(TokenId(token_index:218, file_id:13)) edit_info:None prop_type:Instance,
+        id: RadioButtonBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    radio_button,
+                ),
+                import_id: RadioButtonBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:225, file_id:13)) first_def:Some(TokenId(token_index:225, file_id:13)) edit_info:None prop_type:Instance,
+        id: ScrollBarBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    scroll_bar,
+                ),
+                import_id: ScrollBarBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:232, file_id:13)) first_def:Some(TokenId(token_index:232, file_id:13)) edit_info:None prop_type:Instance,
+        id: ScrollBarsBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    scroll_bars,
+                ),
+                import_id: ScrollBarsBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:239, file_id:13)) first_def:Some(TokenId(token_index:239, file_id:13)) edit_info:None prop_type:Instance,
+        id: SlidePanelBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    slide_panel,
+                ),
+                import_id: SlidePanelBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:246, file_id:13)) first_def:Some(TokenId(token_index:246, file_id:13)) edit_info:None prop_type:Instance,
+        id: SliderBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    slider,
+                ),
+                import_id: SliderBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:253, file_id:13)) first_def:Some(TokenId(token_index:253, file_id:13)) edit_info:None prop_type:Instance,
+        id: SlidesViewBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    slides_view,
+                ),
+                import_id: SlidesViewBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:260, file_id:13)) first_def:Some(TokenId(token_index:260, file_id:13)) edit_info:None prop_type:Instance,
+        id: SplitterBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    splitter,
+                ),
+                import_id: SplitterBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:267, file_id:13)) first_def:Some(TokenId(token_index:267, file_id:13)) edit_info:None prop_type:Instance,
+        id: TabBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    tab,
+                ),
+                import_id: TabBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:274, file_id:13)) first_def:Some(TokenId(token_index:274, file_id:13)) edit_info:None prop_type:Instance,
+        id: TabBarBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    tab_bar,
+                ),
+                import_id: TabBarBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:281, file_id:13)) first_def:Some(TokenId(token_index:281, file_id:13)) edit_info:None prop_type:Instance,
+        id: TabCloseButtonBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    tab_close_button,
+                ),
+                import_id: TabCloseButtonBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:288, file_id:13)) first_def:Some(TokenId(token_index:288, file_id:13)) edit_info:None prop_type:Instance,
+        id: TextInputBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    text_input,
+                ),
+                import_id: TextInputBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:295, file_id:13)) first_def:Some(TokenId(token_index:295, file_id:13)) edit_info:None prop_type:Instance,
+        id: DrawScrollShadowBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    scroll_shadow,
+                ),
+                import_id: DrawScrollShadowBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:302, file_id:13)) first_def:Some(TokenId(token_index:302, file_id:13)) edit_info:None prop_type:Instance,
+        id: PageFlipBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    page_flip,
+                ),
+                import_id: PageFlipBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:309, file_id:13)) first_def:Some(TokenId(token_index:309, file_id:13)) edit_info:None prop_type:Instance,
+        id: StackNavigationViewBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    stack_navigation,
+                ),
+                import_id: StackNavigationViewBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:316, file_id:13)) first_def:Some(TokenId(token_index:316, file_id:13)) edit_info:None prop_type:Instance,
+        id: StackNavigationBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    stack_navigation,
+                ),
+                import_id: StackNavigationBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:323, file_id:13)) first_def:Some(TokenId(token_index:323, file_id:13)) edit_info:None prop_type:Instance,
+        id: ExpandablePanelBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    expandable_panel,
+                ),
+                import_id: ExpandablePanelBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:330, file_id:13)) first_def:Some(TokenId(token_index:330, file_id:13)) edit_info:None prop_type:Instance,
+        id: KeyboardViewBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    keyboard_view,
+                ),
+                import_id: KeyboardViewBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:337, file_id:13)) first_def:Some(TokenId(token_index:337, file_id:13)) edit_info:None prop_type:Instance,
+        id: WindowMenuBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    window_menu,
+                ),
+                import_id: WindowMenuBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:344, file_id:13)) first_def:Some(TokenId(token_index:344, file_id:13)) edit_info:None prop_type:Instance,
+        id: HtmlBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    html,
+                ),
+                import_id: HtmlBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:351, file_id:13)) first_def:Some(TokenId(token_index:351, file_id:13)) edit_info:None prop_type:Instance,
+        id: HtmlLinkBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    html,
+                ),
+                import_id: HtmlLinkBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:358, file_id:13)) first_def:Some(TokenId(token_index:358, file_id:13)) edit_info:None prop_type:Instance,
+        id: MarkdownBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    markdown,
+                ),
+                import_id: MarkdownBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:365, file_id:13)) first_def:Some(TokenId(token_index:365, file_id:13)) edit_info:None prop_type:Instance,
+        id: MarkdownLinkBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    markdown,
+                ),
+                import_id: MarkdownLinkBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:372, file_id:13)) first_def:Some(TokenId(token_index:372, file_id:13)) edit_info:None prop_type:Instance,
+        id: RootBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    root,
+                ),
+                import_id: RootBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:379, file_id:13)) first_def:Some(TokenId(token_index:379, file_id:13)) edit_info:None prop_type:Instance,
+        id: TextFlowBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    text_flow,
+                ),
+                import_id: TextFlowBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:386, file_id:13)) first_def:Some(TokenId(token_index:386, file_id:13)) edit_info:None prop_type:Instance,
+        id: TextFlowLinkBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    text_flow,
+                ),
+                import_id: TextFlowLinkBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:393, file_id:13)) first_def:Some(TokenId(token_index:393, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    designer,
+                ),
+                import_id: DesignerBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:400, file_id:13)) first_def:Some(TokenId(token_index:400, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerOutlineBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    designer_outline,
+                ),
+                import_id: DesignerOutlineBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:407, file_id:13)) first_def:Some(TokenId(token_index:407, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerViewBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    designer_view,
+                ),
+                import_id: DesignerViewBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:414, file_id:13)) first_def:Some(TokenId(token_index:414, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerContainerBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    designer_view,
+                ),
+                import_id: DesignerContainerBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:421, file_id:13)) first_def:Some(TokenId(token_index:421, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerOutlineTreeBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    designer_outline_tree,
+                ),
+                import_id: DesignerOutlineTreeBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:428, file_id:13)) first_def:Some(TokenId(token_index:428, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerOutlineTreeNodeBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    designer_outline_tree,
+                ),
+                import_id: DesignerOutlineTreeNodeBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:435, file_id:13)) first_def:Some(TokenId(token_index:435, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerToolboxBase,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    designer_toolbox,
+                ),
+                import_id: DesignerToolboxBase,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:441, file_id:13)) first_def:Some(TokenId(token_index:441, file_id:13)) edit_info:None prop_type:Instance,
+        id: ColorPicker,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    color_picker,
+                ),
+                import_id: ColorPicker,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:448, file_id:13)) first_def:Some(TokenId(token_index:448, file_id:13)) edit_info:None prop_type:Instance,
+        id: BareStep,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    bare_step,
+                ),
+                import_id: BareStep,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:455, file_id:13)) first_def:Some(TokenId(token_index:455, file_id:13)) edit_info:None prop_type:Instance,
+        id: TurtleStep,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    turtle_step,
+                ),
+                import_id: TurtleStep,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:462, file_id:13)) first_def:Some(TokenId(token_index:462, file_id:13)) edit_info:None prop_type:Instance,
+        id: 0,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    toggle_panel,
+                ),
+                import_id: 0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:469, file_id:13)) first_def:Some(TokenId(token_index:469, file_id:13)) edit_info:None prop_type:Instance,
+        id: 0,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_draw,
+                    shader::std,
+                ),
+                import_id: 0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:478, file_id:13)) first_def:Some(TokenId(token_index:478, file_id:13)) edit_info:None prop_type:Instance,
+        id: DrawColor,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_draw,
+                    shader::draw_color,
+                ),
+                import_id: DrawColor,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:486, file_id:13)) first_def:Some(TokenId(token_index:486, file_id:13)) edit_info:None prop_type:Instance,
+        id: SlidePanel,
+        value: Clone {
+            clone: SlidePanelBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:492, file_id:13)) first_def:Some(TokenId(token_index:492, file_id:13)) edit_info:None prop_type:Field,
+        id: animator,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:495, file_id:13)) first_def:Some(TokenId(token_index:495, file_id:13)) edit_info:None prop_type:Instance,
+        id: closed,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:498, file_id:13)) first_def:Some(TokenId(token_index:498, file_id:13)) edit_info:None prop_type:Field,
+        id: default,
+        value: Id(
+            off,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:502, file_id:13)) first_def:Some(TokenId(token_index:502, file_id:13)) edit_info:None prop_type:Instance,
+        id: on,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:505, file_id:13)) first_def:Some(TokenId(token_index:505, file_id:13)) edit_info:None prop_type:Field,
+        id: redraw,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:509, file_id:13)) first_def:Some(TokenId(token_index:509, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:512, file_id:13)) first_def:Some(TokenId(token_index:512, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: NamedEnum(
+            Forward,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:516, file_id:13)) first_def:Some(TokenId(token_index:516, file_id:13)) edit_info:None prop_type:Field,
+        id: duration,
+        value: Float64(
+            0.5,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:520, file_id:13)) first_def:Some(TokenId(token_index:520, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:520, file_id:13)) first_def:Some(TokenId(token_index:520, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:521, file_id:13)) first_def:Some(TokenId(token_index:521, file_id:13)) edit_info:None prop_type:Field,
+        id: ease,
+        value: BareEnum(
+            InQuad,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:524, file_id:13)) first_def:Some(TokenId(token_index:524, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:527, file_id:13)) first_def:Some(TokenId(token_index:527, file_id:13)) edit_info:None prop_type:Field,
+        id: closed,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:530, file_id:13)) first_def:Some(TokenId(token_index:530, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:531, file_id:13)) first_def:Some(TokenId(token_index:531, file_id:13)) edit_info:None prop_type:Field,
+        id: on,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:532, file_id:13)) first_def:Some(TokenId(token_index:532, file_id:13)) edit_info:None prop_type:Instance,
+        id: off,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:535, file_id:13)) first_def:Some(TokenId(token_index:535, file_id:13)) edit_info:None prop_type:Field,
+        id: redraw,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:539, file_id:13)) first_def:Some(TokenId(token_index:539, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:542, file_id:13)) first_def:Some(TokenId(token_index:542, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: NamedEnum(
+            Forward,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:546, file_id:13)) first_def:Some(TokenId(token_index:546, file_id:13)) edit_info:None prop_type:Field,
+        id: duration,
+        value: Float64(
+            0.5,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:550, file_id:13)) first_def:Some(TokenId(token_index:550, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:550, file_id:13)) first_def:Some(TokenId(token_index:550, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:551, file_id:13)) first_def:Some(TokenId(token_index:551, file_id:13)) edit_info:None prop_type:Field,
+        id: ease,
+        value: BareEnum(
+            OutQuad,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:554, file_id:13)) first_def:Some(TokenId(token_index:554, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:557, file_id:13)) first_def:Some(TokenId(token_index:557, file_id:13)) edit_info:None prop_type:Field,
+        id: closed,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:560, file_id:13)) first_def:Some(TokenId(token_index:560, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:561, file_id:13)) first_def:Some(TokenId(token_index:561, file_id:13)) edit_info:None prop_type:Field,
+        id: off,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:562, file_id:13)) first_def:Some(TokenId(token_index:562, file_id:13)) edit_info:None prop_type:Field,
+        id: closed,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:563, file_id:13)) first_def:Some(TokenId(token_index:563, file_id:13)) edit_info:None prop_type:Field,
+        id: animator,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:564, file_id:13)) first_def:Some(TokenId(token_index:564, file_id:13)) edit_info:None prop_type:Field,
+        id: SlidePanel,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:565, file_id:13)) first_def:Some(TokenId(token_index:565, file_id:13)) edit_info:None prop_type:Instance,
+        id: Icon,
+        value: Clone {
+            clone: IconBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:571, file_id:13)) first_def:Some(TokenId(token_index:571, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: BareEnum(
+            Fit,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:575, file_id:13)) first_def:Some(TokenId(token_index:575, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: BareEnum(
+            Fit,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:579, file_id:13)) first_def:Some(TokenId(token_index:579, file_id:13)) edit_info:None prop_type:Field,
+        id: icon_walk,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:582, file_id:13)) first_def:Some(TokenId(token_index:582, file_id:13)) edit_info:None prop_type:Field,
+        id: margin,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:585, file_id:13)) first_def:Some(TokenId(token_index:585, file_id:13)) edit_info:None prop_type:Field,
+        id: left,
+        value: Float64(
+            5.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:588, file_id:13)) first_def:Some(TokenId(token_index:588, file_id:13)) edit_info:None prop_type:Field,
+        id: margin,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:590, file_id:13)) first_def:Some(TokenId(token_index:590, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: BareEnum(
+            Fit,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:594, file_id:13)) first_def:Some(TokenId(token_index:594, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: BareEnum(
+            Fit,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:598, file_id:13)) first_def:Some(TokenId(token_index:598, file_id:13)) edit_info:None prop_type:Field,
+        id: icon_walk,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:599, file_id:13)) first_def:Some(TokenId(token_index:599, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:603, file_id:13)) first_def:Some(TokenId(token_index:603, file_id:13)) edit_info:None prop_type:Field,
+        id: color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:608, file_id:13)) first_def:Some(TokenId(token_index:608, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 607,
+            token_count: 14,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:621, file_id:13)) first_def:Some(TokenId(token_index:621, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:622, file_id:13)) first_def:Some(TokenId(token_index:622, file_id:13)) edit_info:None prop_type:Field,
+        id: Icon,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:623, file_id:13)) first_def:Some(TokenId(token_index:623, file_id:13)) edit_info:None prop_type:Instance,
+        id: Image,
+        value: Clone {
+            clone: ImageBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:629, file_id:13)) first_def:Some(TokenId(token_index:629, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: Int64(
+            100,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:632, file_id:13)) first_def:Some(TokenId(token_index:632, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: Int64(
+            100,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:635, file_id:13)) first_def:Some(TokenId(token_index:635, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:639, file_id:13)) first_def:Some(TokenId(token_index:639, file_id:13)) edit_info:None prop_type:Field,
+        id: image,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:643, file_id:13)) first_def:Some(TokenId(token_index:643, file_id:13)) edit_info:None prop_type:Field,
+        id: opacity,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:647, file_id:13)) first_def:Some(TokenId(token_index:647, file_id:13)) edit_info:None prop_type:Field,
+        id: image_scale,
+        value: Vec2(
+            Vec2 {
+                x: 1.0,
+                y: 1.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:656, file_id:13)) first_def:Some(TokenId(token_index:656, file_id:13)) edit_info:None prop_type:Field,
+        id: image_pan,
+        value: Vec2(
+            Vec2 {
+                x: 0.0,
+                y: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:665, file_id:13)) first_def:Some(TokenId(token_index:665, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color_scale_pan,
+        value: DSL {
+            token_start: 664,
+            token_count: 35,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:700, file_id:13)) first_def:Some(TokenId(token_index:700, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 699,
+            token_count: 22,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:722, file_id:13)) first_def:Some(TokenId(token_index:722, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 721,
+            token_count: 38,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:759, file_id:13)) first_def:Some(TokenId(token_index:759, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:760, file_id:13)) first_def:Some(TokenId(token_index:760, file_id:13)) edit_info:None prop_type:Field,
+        id: Image,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:761, file_id:13)) first_def:Some(TokenId(token_index:761, file_id:13)) edit_info:None prop_type:Instance,
+        id: MultiImage,
+        value: Clone {
+            clone: ImageBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:767, file_id:13)) first_def:Some(TokenId(token_index:767, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: Int64(
+            100,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:770, file_id:13)) first_def:Some(TokenId(token_index:770, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: Int64(
+            100,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:773, file_id:13)) first_def:Some(TokenId(token_index:773, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:777, file_id:13)) first_def:Some(TokenId(token_index:777, file_id:13)) edit_info:None prop_type:Field,
+        id: image1,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:781, file_id:13)) first_def:Some(TokenId(token_index:781, file_id:13)) edit_info:None prop_type:Field,
+        id: image2,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:785, file_id:13)) first_def:Some(TokenId(token_index:785, file_id:13)) edit_info:None prop_type:Field,
+        id: image3,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:789, file_id:13)) first_def:Some(TokenId(token_index:789, file_id:13)) edit_info:None prop_type:Field,
+        id: image4,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:793, file_id:13)) first_def:Some(TokenId(token_index:793, file_id:13)) edit_info:None prop_type:Field,
+        id: opacity,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:797, file_id:13)) first_def:Some(TokenId(token_index:797, file_id:13)) edit_info:None prop_type:Field,
+        id: image_scale,
+        value: Vec2(
+            Vec2 {
+                x: 1.0,
+                y: 1.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:806, file_id:13)) first_def:Some(TokenId(token_index:806, file_id:13)) edit_info:None prop_type:Field,
+        id: image_pan,
+        value: Vec2(
+            Vec2 {
+                x: 0.0,
+                y: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:815, file_id:13)) first_def:Some(TokenId(token_index:815, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color_scale_pan,
+        value: DSL {
+            token_start: 814,
+            token_count: 35,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:850, file_id:13)) first_def:Some(TokenId(token_index:850, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 849,
+            token_count: 22,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:872, file_id:13)) first_def:Some(TokenId(token_index:872, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 871,
+            token_count: 38,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:909, file_id:13)) first_def:Some(TokenId(token_index:909, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:910, file_id:13)) first_def:Some(TokenId(token_index:910, file_id:13)) edit_info:None prop_type:Field,
+        id: MultiImage,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:911, file_id:13)) first_def:Some(TokenId(token_index:911, file_id:13)) edit_info:None prop_type:Instance,
+        id: ImageBlend,
+        value: Clone {
+            clone: ImageBlendBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:917, file_id:13)) first_def:Some(TokenId(token_index:917, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: Int64(
+            100,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:920, file_id:13)) first_def:Some(TokenId(token_index:920, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: Int64(
+            100,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:923, file_id:13)) first_def:Some(TokenId(token_index:923, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:927, file_id:13)) first_def:Some(TokenId(token_index:927, file_id:13)) edit_info:None prop_type:Field,
+        id: image0,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:931, file_id:13)) first_def:Some(TokenId(token_index:931, file_id:13)) edit_info:None prop_type:Field,
+        id: image1,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:935, file_id:13)) first_def:Some(TokenId(token_index:935, file_id:13)) edit_info:None prop_type:Field,
+        id: opacity,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:939, file_id:13)) first_def:Some(TokenId(token_index:939, file_id:13)) edit_info:None prop_type:Field,
+        id: blend,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:943, file_id:13)) first_def:Some(TokenId(token_index:943, file_id:13)) edit_info:None prop_type:Field,
+        id: image_scale,
+        value: Vec2(
+            Vec2 {
+                x: 1.0,
+                y: 1.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:952, file_id:13)) first_def:Some(TokenId(token_index:952, file_id:13)) edit_info:None prop_type:Field,
+        id: image_pan,
+        value: Vec2(
+            Vec2 {
+                x: 0.0,
+                y: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:961, file_id:13)) first_def:Some(TokenId(token_index:961, file_id:13)) edit_info:None prop_type:Field,
+        id: breathe,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:965, file_id:13)) first_def:Some(TokenId(token_index:965, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color_scale_pan,
+        value: DSL {
+            token_start: 964,
+            token_count: 89,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1054, file_id:13)) first_def:Some(TokenId(token_index:1054, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 1053,
+            token_count: 22,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1076, file_id:13)) first_def:Some(TokenId(token_index:1076, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 1075,
+            token_count: 38,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1113, file_id:13)) first_def:Some(TokenId(token_index:1113, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1114, file_id:13)) first_def:Some(TokenId(token_index:1114, file_id:13)) edit_info:None prop_type:Field,
+        id: animator,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1117, file_id:13)) first_def:Some(TokenId(token_index:1117, file_id:13)) edit_info:None prop_type:Instance,
+        id: blend,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1120, file_id:13)) first_def:Some(TokenId(token_index:1120, file_id:13)) edit_info:None prop_type:Field,
+        id: default,
+        value: Id(
+            zero,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1124, file_id:13)) first_def:Some(TokenId(token_index:1124, file_id:13)) edit_info:None prop_type:Instance,
+        id: zero,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1127, file_id:13)) first_def:Some(TokenId(token_index:1127, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1130, file_id:13)) first_def:Some(TokenId(token_index:1130, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: NamedEnum(
+            Forward,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1134, file_id:13)) first_def:Some(TokenId(token_index:1134, file_id:13)) edit_info:None prop_type:Field,
+        id: duration,
+        value: Float64(
+            0.1,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1138, file_id:13)) first_def:Some(TokenId(token_index:1138, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1138, file_id:13)) first_def:Some(TokenId(token_index:1138, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1139, file_id:13)) first_def:Some(TokenId(token_index:1139, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1142, file_id:13)) first_def:Some(TokenId(token_index:1142, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1145, file_id:13)) first_def:Some(TokenId(token_index:1145, file_id:13)) edit_info:None prop_type:Field,
+        id: blend,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1148, file_id:13)) first_def:Some(TokenId(token_index:1148, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1149, file_id:13)) first_def:Some(TokenId(token_index:1149, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1150, file_id:13)) first_def:Some(TokenId(token_index:1150, file_id:13)) edit_info:None prop_type:Field,
+        id: zero,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1151, file_id:13)) first_def:Some(TokenId(token_index:1151, file_id:13)) edit_info:None prop_type:Instance,
+        id: one,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1154, file_id:13)) first_def:Some(TokenId(token_index:1154, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1157, file_id:13)) first_def:Some(TokenId(token_index:1157, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: NamedEnum(
+            Forward,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1161, file_id:13)) first_def:Some(TokenId(token_index:1161, file_id:13)) edit_info:None prop_type:Field,
+        id: duration,
+        value: Float64(
+            0.1,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1165, file_id:13)) first_def:Some(TokenId(token_index:1165, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1165, file_id:13)) first_def:Some(TokenId(token_index:1165, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1166, file_id:13)) first_def:Some(TokenId(token_index:1166, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1169, file_id:13)) first_def:Some(TokenId(token_index:1169, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1172, file_id:13)) first_def:Some(TokenId(token_index:1172, file_id:13)) edit_info:None prop_type:Field,
+        id: blend,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1175, file_id:13)) first_def:Some(TokenId(token_index:1175, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1176, file_id:13)) first_def:Some(TokenId(token_index:1176, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1177, file_id:13)) first_def:Some(TokenId(token_index:1177, file_id:13)) edit_info:None prop_type:Field,
+        id: one,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1178, file_id:13)) first_def:Some(TokenId(token_index:1178, file_id:13)) edit_info:None prop_type:Field,
+        id: blend,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1179, file_id:13)) first_def:Some(TokenId(token_index:1179, file_id:13)) edit_info:None prop_type:Instance,
+        id: breathe,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1182, file_id:13)) first_def:Some(TokenId(token_index:1182, file_id:13)) edit_info:None prop_type:Field,
+        id: default,
+        value: Id(
+            off,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1186, file_id:13)) first_def:Some(TokenId(token_index:1186, file_id:13)) edit_info:None prop_type:Instance,
+        id: on,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1189, file_id:13)) first_def:Some(TokenId(token_index:1189, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1192, file_id:13)) first_def:Some(TokenId(token_index:1192, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: NamedEnum(
+            BounceLoop,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1196, file_id:13)) first_def:Some(TokenId(token_index:1196, file_id:13)) edit_info:None prop_type:Field,
+        id: duration,
+        value: Float64(
+            10.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1200, file_id:13)) first_def:Some(TokenId(token_index:1200, file_id:13)) edit_info:None prop_type:Field,
+        id: end,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1204, file_id:13)) first_def:Some(TokenId(token_index:1204, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1204, file_id:13)) first_def:Some(TokenId(token_index:1204, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1205, file_id:13)) first_def:Some(TokenId(token_index:1205, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1208, file_id:13)) first_def:Some(TokenId(token_index:1208, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1211, file_id:13)) first_def:Some(TokenId(token_index:1211, file_id:13)) edit_info:None prop_type:Field,
+        id: breathe,
+        value: Array,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1214, file_id:13)) first_def:Some(TokenId(token_index:1214, file_id:13)) edit_info:None prop_type:Nameless,
+        id: UniqueId 1,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1215, file_id:13)) first_def:Some(TokenId(token_index:1215, file_id:13)) edit_info:None prop_type:Field,
+        id: time,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1219, file_id:13)) first_def:Some(TokenId(token_index:1219, file_id:13)) edit_info:None prop_type:Field,
+        id: value,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1222, file_id:13)) first_def:Some(TokenId(token_index:1222, file_id:13)) edit_info:None prop_type:Field,
+        id: UniqueId 1,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1224, file_id:13)) first_def:Some(TokenId(token_index:1224, file_id:13)) edit_info:None prop_type:Nameless,
+        id: UniqueId 2,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1225, file_id:13)) first_def:Some(TokenId(token_index:1225, file_id:13)) edit_info:None prop_type:Field,
+        id: time,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1229, file_id:13)) first_def:Some(TokenId(token_index:1229, file_id:13)) edit_info:None prop_type:Field,
+        id: value,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1232, file_id:13)) first_def:Some(TokenId(token_index:1232, file_id:13)) edit_info:None prop_type:Field,
+        id: UniqueId 2,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1234, file_id:13)) first_def:Some(TokenId(token_index:1234, file_id:13)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1234, file_id:13)) first_def:Some(TokenId(token_index:1234, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1235, file_id:13)) first_def:Some(TokenId(token_index:1235, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1236, file_id:13)) first_def:Some(TokenId(token_index:1236, file_id:13)) edit_info:None prop_type:Field,
+        id: on,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1237, file_id:13)) first_def:Some(TokenId(token_index:1237, file_id:13)) edit_info:None prop_type:Instance,
+        id: off,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1240, file_id:13)) first_def:Some(TokenId(token_index:1240, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1243, file_id:13)) first_def:Some(TokenId(token_index:1243, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: NamedEnum(
+            Forward,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1247, file_id:13)) first_def:Some(TokenId(token_index:1247, file_id:13)) edit_info:None prop_type:Field,
+        id: duration,
+        value: Int64(
+            1,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1251, file_id:13)) first_def:Some(TokenId(token_index:1251, file_id:13)) edit_info:None prop_type:Field,
+        id: all,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1251, file_id:13)) first_def:Some(TokenId(token_index:1251, file_id:13)) edit_info:None prop_type:Field,
+        id: from,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1252, file_id:13)) first_def:Some(TokenId(token_index:1252, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1255, file_id:13)) first_def:Some(TokenId(token_index:1255, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1258, file_id:13)) first_def:Some(TokenId(token_index:1258, file_id:13)) edit_info:None prop_type:Field,
+        id: breathe,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1261, file_id:13)) first_def:Some(TokenId(token_index:1261, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1262, file_id:13)) first_def:Some(TokenId(token_index:1262, file_id:13)) edit_info:None prop_type:Field,
+        id: apply,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1263, file_id:13)) first_def:Some(TokenId(token_index:1263, file_id:13)) edit_info:None prop_type:Field,
+        id: off,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1264, file_id:13)) first_def:Some(TokenId(token_index:1264, file_id:13)) edit_info:None prop_type:Field,
+        id: breathe,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1265, file_id:13)) first_def:Some(TokenId(token_index:1265, file_id:13)) edit_info:None prop_type:Field,
+        id: animator,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1266, file_id:13)) first_def:Some(TokenId(token_index:1266, file_id:13)) edit_info:None prop_type:Field,
+        id: ImageBlend,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1267, file_id:13)) first_def:Some(TokenId(token_index:1267, file_id:13)) edit_info:None prop_type:Instance,
+        id: RotatedImage,
+        value: Clone {
+            clone: RotatedImageBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1273, file_id:13)) first_def:Some(TokenId(token_index:1273, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: BareEnum(
+            Fit,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1276, file_id:13)) first_def:Some(TokenId(token_index:1276, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: BareEnum(
+            Fit,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1279, file_id:13)) first_def:Some(TokenId(token_index:1279, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1283, file_id:13)) first_def:Some(TokenId(token_index:1283, file_id:13)) edit_info:None prop_type:Field,
+        id: image,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1287, file_id:13)) first_def:Some(TokenId(token_index:1287, file_id:13)) edit_info:None prop_type:Field,
+        id: rotation,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1291, file_id:13)) first_def:Some(TokenId(token_index:1291, file_id:13)) edit_info:None prop_type:Field,
+        id: opacity,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1295, file_id:13)) first_def:Some(TokenId(token_index:1295, file_id:13)) edit_info:None prop_type:Field,
+        id: scale,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1299, file_id:13)) first_def:Some(TokenId(token_index:1299, file_id:13)) edit_info:None prop_type:Instance,
+        id: rotation_vertex_expansion,
+        value: DSL {
+            token_start: 1298,
+            token_count: 85,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1384, file_id:13)) first_def:Some(TokenId(token_index:1384, file_id:13)) edit_info:None prop_type:Instance,
+        id: rotate_2d_from_center,
+        value: DSL {
+            token_start: 1383,
+            token_count: 133,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1517, file_id:13)) first_def:Some(TokenId(token_index:1517, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 1516,
+            token_count: 104,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1621, file_id:13)) first_def:Some(TokenId(token_index:1621, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 1620,
+            token_count: 170,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1791, file_id:13)) first_def:Some(TokenId(token_index:1791, file_id:13)) edit_info:None prop_type:Instance,
+        id: vertex,
+        value: DSL {
+            token_start: 1790,
+            token_count: 191,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1981, file_id:13)) first_def:Some(TokenId(token_index:1981, file_id:13)) edit_info:None prop_type:Field,
+        id: shape,
+        value: BareEnum(
+            Solid,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1985, file_id:13)) first_def:Some(TokenId(token_index:1985, file_id:13)) edit_info:None prop_type:Field,
+        id: fill,
+        value: BareEnum(
+            Image,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1988, file_id:13)) first_def:Some(TokenId(token_index:1988, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1989, file_id:13)) first_def:Some(TokenId(token_index:1989, file_id:13)) edit_info:None prop_type:Field,
+        id: RotatedImage,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1990, file_id:13)) first_def:Some(TokenId(token_index:1990, file_id:13)) edit_info:None prop_type:Instance,
+        id: Video,
+        value: Clone {
+            clone: VideoBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1996, file_id:13)) first_def:Some(TokenId(token_index:1996, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: Int64(
+            100,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2000, file_id:13)) first_def:Some(TokenId(token_index:2000, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: Int64(
+            100,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2003, file_id:13)) first_def:Some(TokenId(token_index:2003, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2006, file_id:13)) first_def:Some(TokenId(token_index:2006, file_id:13)) edit_info:None prop_type:Field,
+        id: shape,
+        value: BareEnum(
+            Solid,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2010, file_id:13)) first_def:Some(TokenId(token_index:2010, file_id:13)) edit_info:None prop_type:Field,
+        id: fill,
+        value: BareEnum(
+            Image,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2014, file_id:13)) first_def:Some(TokenId(token_index:2014, file_id:13)) edit_info:None prop_type:Field,
+        id: video_texture,
+        value: Id(
+            textureOES,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2018, file_id:13)) first_def:Some(TokenId(token_index:2018, file_id:13)) edit_info:None prop_type:Field,
+        id: thumbnail_texture,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2022, file_id:13)) first_def:Some(TokenId(token_index:2022, file_id:13)) edit_info:None prop_type:Field,
+        id: show_thumbnail,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2026, file_id:13)) first_def:Some(TokenId(token_index:2026, file_id:13)) edit_info:None prop_type:Field,
+        id: opacity,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2030, file_id:13)) first_def:Some(TokenId(token_index:2030, file_id:13)) edit_info:None prop_type:Field,
+        id: image_scale,
+        value: Vec2(
+            Vec2 {
+                x: 1.0,
+                y: 1.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2039, file_id:13)) first_def:Some(TokenId(token_index:2039, file_id:13)) edit_info:None prop_type:Field,
+        id: image_pan,
+        value: Vec2(
+            Vec2 {
+                x: 0.5,
+                y: 0.5,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2048, file_id:13)) first_def:Some(TokenId(token_index:2048, file_id:13)) edit_info:None prop_type:Field,
+        id: source_size,
+        value: Vec2(
+            Vec2 {
+                x: 1.0,
+                y: 1.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2057, file_id:13)) first_def:Some(TokenId(token_index:2057, file_id:13)) edit_info:None prop_type:Field,
+        id: target_size,
+        value: Vec2(
+            Vec2 {
+                x: -1.0,
+                y: -1.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2068, file_id:13)) first_def:Some(TokenId(token_index:2068, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color_scale_pan,
+        value: DSL {
+            token_start: 2067,
+            token_count: 261,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2329, file_id:13)) first_def:Some(TokenId(token_index:2329, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 2328,
+            token_count: 39,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2367, file_id:13)) first_def:Some(TokenId(token_index:2367, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2368, file_id:13)) first_def:Some(TokenId(token_index:2368, file_id:13)) edit_info:None prop_type:Field,
+        id: Video,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2369, file_id:13)) first_def:Some(TokenId(token_index:2369, file_id:13)) edit_info:None prop_type:Instance,
+        id: MultiWindow,
+        value: Clone {
+            clone: MultiWindowBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2375, file_id:13)) first_def:Some(TokenId(token_index:2375, file_id:13)) edit_info:None prop_type:Field,
+        id: MultiWindow,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2376, file_id:13)) first_def:Some(TokenId(token_index:2376, file_id:13)) edit_info:None prop_type:Instance,
+        id: View,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2382, file_id:13)) first_def:Some(TokenId(token_index:2382, file_id:13)) edit_info:None prop_type:Field,
+        id: View,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2383, file_id:13)) first_def:Some(TokenId(token_index:2383, file_id:13)) edit_info:None prop_type:Instance,
+        id: SolidView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2389, file_id:13)) first_def:Some(TokenId(token_index:2389, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2393, file_id:13)) first_def:Some(TokenId(token_index:2393, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2397, file_id:13)) first_def:Some(TokenId(token_index:2397, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 2396,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2410, file_id:13)) first_def:Some(TokenId(token_index:2410, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 2409,
+            token_count: 20,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2429, file_id:13)) first_def:Some(TokenId(token_index:2429, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2430, file_id:13)) first_def:Some(TokenId(token_index:2430, file_id:13)) edit_info:None prop_type:Field,
+        id: SolidView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2431, file_id:13)) first_def:Some(TokenId(token_index:2431, file_id:13)) edit_info:None prop_type:Instance,
+        id: RectView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2437, file_id:13)) first_def:Some(TokenId(token_index:2437, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2441, file_id:13)) first_def:Some(TokenId(token_index:2441, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2445, file_id:13)) first_def:Some(TokenId(token_index:2445, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2449, file_id:13)) first_def:Some(TokenId(token_index:2449, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2453, file_id:13)) first_def:Some(TokenId(token_index:2453, file_id:13)) edit_info:None prop_type:Field,
+        id: inset,
+        value: Vec4(
+            Vec4 {
+                x: 0.0,
+                y: 0.0,
+                z: 0.0,
+                w: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2466, file_id:13)) first_def:Some(TokenId(token_index:2466, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 2465,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2479, file_id:13)) first_def:Some(TokenId(token_index:2479, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 2478,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2492, file_id:13)) first_def:Some(TokenId(token_index:2492, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 2491,
+            token_count: 137,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2628, file_id:13)) first_def:Some(TokenId(token_index:2628, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2629, file_id:13)) first_def:Some(TokenId(token_index:2629, file_id:13)) edit_info:None prop_type:Field,
+        id: RectView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2630, file_id:13)) first_def:Some(TokenId(token_index:2630, file_id:13)) edit_info:None prop_type:Instance,
+        id: RectShadowView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2636, file_id:13)) first_def:Some(TokenId(token_index:2636, file_id:13)) edit_info:None prop_type:Field,
+        id: clip_x,
+        value: Bool(
+            false,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2640, file_id:13)) first_def:Some(TokenId(token_index:2640, file_id:13)) edit_info:None prop_type:Field,
+        id: clip_y,
+        value: Bool(
+            false,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2644, file_id:13)) first_def:Some(TokenId(token_index:2644, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2648, file_id:13)) first_def:Some(TokenId(token_index:2648, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2652, file_id:13)) first_def:Some(TokenId(token_index:2652, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2656, file_id:13)) first_def:Some(TokenId(token_index:2656, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2660, file_id:13)) first_def:Some(TokenId(token_index:2660, file_id:13)) edit_info:None prop_type:Field,
+        id: shadow_color,
+        value: Color(
+            119,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2664, file_id:13)) first_def:Some(TokenId(token_index:2664, file_id:13)) edit_info:None prop_type:Field,
+        id: shadow_offset,
+        value: Vec2(
+            Vec2 {
+                x: 0.0,
+                y: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2673, file_id:13)) first_def:Some(TokenId(token_index:2673, file_id:13)) edit_info:None prop_type:Field,
+        id: shadow_radius,
+        value: Float64(
+            10.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2677, file_id:13)) first_def:Some(TokenId(token_index:2677, file_id:13)) edit_info:None prop_type:Field,
+        id: rect_size2,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2682, file_id:13)) first_def:Some(TokenId(token_index:2682, file_id:13)) edit_info:None prop_type:Field,
+        id: rect_size3,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2687, file_id:13)) first_def:Some(TokenId(token_index:2687, file_id:13)) edit_info:None prop_type:Field,
+        id: sdf_rect_pos,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2692, file_id:13)) first_def:Some(TokenId(token_index:2692, file_id:13)) edit_info:None prop_type:Field,
+        id: sdf_rect_size,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2697, file_id:13)) first_def:Some(TokenId(token_index:2697, file_id:13)) edit_info:None prop_type:Field,
+        id: rect_pos2,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2702, file_id:13)) first_def:Some(TokenId(token_index:2702, file_id:13)) edit_info:None prop_type:Field,
+        id: rect_shift,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2707, file_id:13)) first_def:Some(TokenId(token_index:2707, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 2706,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2720, file_id:13)) first_def:Some(TokenId(token_index:2720, file_id:13)) edit_info:None prop_type:Instance,
+        id: vertex,
+        value: DSL {
+            token_start: 2719,
+            token_count: 133,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2853, file_id:13)) first_def:Some(TokenId(token_index:2853, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 2852,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2866, file_id:13)) first_def:Some(TokenId(token_index:2866, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 2865,
+            token_count: 165,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3030, file_id:13)) first_def:Some(TokenId(token_index:3030, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3031, file_id:13)) first_def:Some(TokenId(token_index:3031, file_id:13)) edit_info:None prop_type:Field,
+        id: RectShadowView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3032, file_id:13)) first_def:Some(TokenId(token_index:3032, file_id:13)) edit_info:None prop_type:Instance,
+        id: RoundedShadowView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3038, file_id:13)) first_def:Some(TokenId(token_index:3038, file_id:13)) edit_info:None prop_type:Field,
+        id: clip_x,
+        value: Bool(
+            false,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3042, file_id:13)) first_def:Some(TokenId(token_index:3042, file_id:13)) edit_info:None prop_type:Field,
+        id: clip_y,
+        value: Bool(
+            false,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3046, file_id:13)) first_def:Some(TokenId(token_index:3046, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3050, file_id:13)) first_def:Some(TokenId(token_index:3050, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3053, file_id:13)) first_def:Some(TokenId(token_index:3053, file_id:13)) edit_info:None prop_type:Field,
+        id: color,
+        value: Color(
+            2290649343,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3057, file_id:13)) first_def:Some(TokenId(token_index:3057, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3061, file_id:13)) first_def:Some(TokenId(token_index:3061, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3065, file_id:13)) first_def:Some(TokenId(token_index:3065, file_id:13)) edit_info:None prop_type:Field,
+        id: shadow_color,
+        value: Color(
+            119,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3069, file_id:13)) first_def:Some(TokenId(token_index:3069, file_id:13)) edit_info:None prop_type:Field,
+        id: shadow_radius,
+        value: Float64(
+            20.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3074, file_id:13)) first_def:Some(TokenId(token_index:3074, file_id:13)) edit_info:None prop_type:Field,
+        id: shadow_offset,
+        value: Vec2(
+            Vec2 {
+                x: 0.0,
+                y: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3083, file_id:13)) first_def:Some(TokenId(token_index:3083, file_id:13)) edit_info:None prop_type:Field,
+        id: radius,
+        value: Float64(
+            2.5,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3087, file_id:13)) first_def:Some(TokenId(token_index:3087, file_id:13)) edit_info:None prop_type:Field,
+        id: rect_size2,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3092, file_id:13)) first_def:Some(TokenId(token_index:3092, file_id:13)) edit_info:None prop_type:Field,
+        id: rect_size3,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3097, file_id:13)) first_def:Some(TokenId(token_index:3097, file_id:13)) edit_info:None prop_type:Field,
+        id: rect_pos2,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3102, file_id:13)) first_def:Some(TokenId(token_index:3102, file_id:13)) edit_info:None prop_type:Field,
+        id: rect_shift,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3107, file_id:13)) first_def:Some(TokenId(token_index:3107, file_id:13)) edit_info:None prop_type:Field,
+        id: sdf_rect_pos,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3112, file_id:13)) first_def:Some(TokenId(token_index:3112, file_id:13)) edit_info:None prop_type:Field,
+        id: sdf_rect_size,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3117, file_id:13)) first_def:Some(TokenId(token_index:3117, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 3116,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3130, file_id:13)) first_def:Some(TokenId(token_index:3130, file_id:13)) edit_info:None prop_type:Instance,
+        id: vertex,
+        value: DSL {
+            token_start: 3129,
+            token_count: 133,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3263, file_id:13)) first_def:Some(TokenId(token_index:3263, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 3262,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3276, file_id:13)) first_def:Some(TokenId(token_index:3276, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 3275,
+            token_count: 182,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3457, file_id:13)) first_def:Some(TokenId(token_index:3457, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3458, file_id:13)) first_def:Some(TokenId(token_index:3458, file_id:13)) edit_info:None prop_type:Field,
+        id: RoundedShadowView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3459, file_id:13)) first_def:Some(TokenId(token_index:3459, file_id:13)) edit_info:None prop_type:Instance,
+        id: RoundedView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3465, file_id:13)) first_def:Some(TokenId(token_index:3465, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3469, file_id:13)) first_def:Some(TokenId(token_index:3469, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3473, file_id:13)) first_def:Some(TokenId(token_index:3473, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3477, file_id:13)) first_def:Some(TokenId(token_index:3477, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3481, file_id:13)) first_def:Some(TokenId(token_index:3481, file_id:13)) edit_info:None prop_type:Field,
+        id: inset,
+        value: Vec4(
+            Vec4 {
+                x: 0.0,
+                y: 0.0,
+                z: 0.0,
+                w: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3494, file_id:13)) first_def:Some(TokenId(token_index:3494, file_id:13)) edit_info:None prop_type:Field,
+        id: radius,
+        value: Float64(
+            2.5,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3498, file_id:13)) first_def:Some(TokenId(token_index:3498, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 3497,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3511, file_id:13)) first_def:Some(TokenId(token_index:3511, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 3510,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3524, file_id:13)) first_def:Some(TokenId(token_index:3524, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 3523,
+            token_count: 146,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3669, file_id:13)) first_def:Some(TokenId(token_index:3669, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3670, file_id:13)) first_def:Some(TokenId(token_index:3670, file_id:13)) edit_info:None prop_type:Field,
+        id: RoundedView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3671, file_id:13)) first_def:Some(TokenId(token_index:3671, file_id:13)) edit_info:None prop_type:Instance,
+        id: RoundedXView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3677, file_id:13)) first_def:Some(TokenId(token_index:3677, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3681, file_id:13)) first_def:Some(TokenId(token_index:3681, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3685, file_id:13)) first_def:Some(TokenId(token_index:3685, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3689, file_id:13)) first_def:Some(TokenId(token_index:3689, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3693, file_id:13)) first_def:Some(TokenId(token_index:3693, file_id:13)) edit_info:None prop_type:Field,
+        id: inset,
+        value: Vec4(
+            Vec4 {
+                x: 0.0,
+                y: 0.0,
+                z: 0.0,
+                w: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3706, file_id:13)) first_def:Some(TokenId(token_index:3706, file_id:13)) edit_info:None prop_type:Field,
+        id: radius,
+        value: Vec2(
+            Vec2 {
+                x: 2.5,
+                y: 2.5,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3715, file_id:13)) first_def:Some(TokenId(token_index:3715, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 3714,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3728, file_id:13)) first_def:Some(TokenId(token_index:3728, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 3727,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3741, file_id:13)) first_def:Some(TokenId(token_index:3741, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 3740,
+            token_count: 149,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3889, file_id:13)) first_def:Some(TokenId(token_index:3889, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3890, file_id:13)) first_def:Some(TokenId(token_index:3890, file_id:13)) edit_info:None prop_type:Field,
+        id: RoundedXView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3891, file_id:13)) first_def:Some(TokenId(token_index:3891, file_id:13)) edit_info:None prop_type:Instance,
+        id: RoundedYView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3897, file_id:13)) first_def:Some(TokenId(token_index:3897, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3901, file_id:13)) first_def:Some(TokenId(token_index:3901, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3905, file_id:13)) first_def:Some(TokenId(token_index:3905, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3909, file_id:13)) first_def:Some(TokenId(token_index:3909, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3913, file_id:13)) first_def:Some(TokenId(token_index:3913, file_id:13)) edit_info:None prop_type:Field,
+        id: inset,
+        value: Vec4(
+            Vec4 {
+                x: 0.0,
+                y: 0.0,
+                z: 0.0,
+                w: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3926, file_id:13)) first_def:Some(TokenId(token_index:3926, file_id:13)) edit_info:None prop_type:Field,
+        id: radius,
+        value: Vec2(
+            Vec2 {
+                x: 2.5,
+                y: 2.5,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3935, file_id:13)) first_def:Some(TokenId(token_index:3935, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 3934,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3948, file_id:13)) first_def:Some(TokenId(token_index:3948, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 3947,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3961, file_id:13)) first_def:Some(TokenId(token_index:3961, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 3960,
+            token_count: 149,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4109, file_id:13)) first_def:Some(TokenId(token_index:4109, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4110, file_id:13)) first_def:Some(TokenId(token_index:4110, file_id:13)) edit_info:None prop_type:Field,
+        id: RoundedYView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4111, file_id:13)) first_def:Some(TokenId(token_index:4111, file_id:13)) edit_info:None prop_type:Instance,
+        id: RoundedAllView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4117, file_id:13)) first_def:Some(TokenId(token_index:4117, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4121, file_id:13)) first_def:Some(TokenId(token_index:4121, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4125, file_id:13)) first_def:Some(TokenId(token_index:4125, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4129, file_id:13)) first_def:Some(TokenId(token_index:4129, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4133, file_id:13)) first_def:Some(TokenId(token_index:4133, file_id:13)) edit_info:None prop_type:Field,
+        id: inset,
+        value: Vec4(
+            Vec4 {
+                x: 0.0,
+                y: 0.0,
+                z: 0.0,
+                w: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4146, file_id:13)) first_def:Some(TokenId(token_index:4146, file_id:13)) edit_info:None prop_type:Field,
+        id: radius,
+        value: Vec4(
+            Vec4 {
+                x: 2.5,
+                y: 2.5,
+                z: 2.5,
+                w: 2.5,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4159, file_id:13)) first_def:Some(TokenId(token_index:4159, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 4158,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4172, file_id:13)) first_def:Some(TokenId(token_index:4172, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 4171,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4185, file_id:13)) first_def:Some(TokenId(token_index:4185, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 4184,
+            token_count: 161,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4345, file_id:13)) first_def:Some(TokenId(token_index:4345, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4346, file_id:13)) first_def:Some(TokenId(token_index:4346, file_id:13)) edit_info:None prop_type:Field,
+        id: RoundedAllView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4347, file_id:13)) first_def:Some(TokenId(token_index:4347, file_id:13)) edit_info:None prop_type:Instance,
+        id: CircleView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4353, file_id:13)) first_def:Some(TokenId(token_index:4353, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4357, file_id:13)) first_def:Some(TokenId(token_index:4357, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4361, file_id:13)) first_def:Some(TokenId(token_index:4361, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4365, file_id:13)) first_def:Some(TokenId(token_index:4365, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4369, file_id:13)) first_def:Some(TokenId(token_index:4369, file_id:13)) edit_info:None prop_type:Field,
+        id: inset,
+        value: Vec4(
+            Vec4 {
+                x: 0.0,
+                y: 0.0,
+                z: 0.0,
+                w: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4382, file_id:13)) first_def:Some(TokenId(token_index:4382, file_id:13)) edit_info:None prop_type:Field,
+        id: radius,
+        value: Float64(
+            5.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4386, file_id:13)) first_def:Some(TokenId(token_index:4386, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 4385,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4399, file_id:13)) first_def:Some(TokenId(token_index:4399, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 4398,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4412, file_id:13)) first_def:Some(TokenId(token_index:4412, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 4411,
+            token_count: 178,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4589, file_id:13)) first_def:Some(TokenId(token_index:4589, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4590, file_id:13)) first_def:Some(TokenId(token_index:4590, file_id:13)) edit_info:None prop_type:Field,
+        id: CircleView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4591, file_id:13)) first_def:Some(TokenId(token_index:4591, file_id:13)) edit_info:None prop_type:Instance,
+        id: HexagonView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4597, file_id:13)) first_def:Some(TokenId(token_index:4597, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4601, file_id:13)) first_def:Some(TokenId(token_index:4601, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4605, file_id:13)) first_def:Some(TokenId(token_index:4605, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4609, file_id:13)) first_def:Some(TokenId(token_index:4609, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4613, file_id:13)) first_def:Some(TokenId(token_index:4613, file_id:13)) edit_info:None prop_type:Field,
+        id: inset,
+        value: Vec4(
+            Vec4 {
+                x: 0.0,
+                y: 0.0,
+                z: 0.0,
+                w: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4626, file_id:13)) first_def:Some(TokenId(token_index:4626, file_id:13)) edit_info:None prop_type:Field,
+        id: radius,
+        value: Int64(
+            5,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4630, file_id:13)) first_def:Some(TokenId(token_index:4630, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 4629,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4643, file_id:13)) first_def:Some(TokenId(token_index:4643, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 4642,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4656, file_id:13)) first_def:Some(TokenId(token_index:4656, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 4655,
+            token_count: 174,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4829, file_id:13)) first_def:Some(TokenId(token_index:4829, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4830, file_id:13)) first_def:Some(TokenId(token_index:4830, file_id:13)) edit_info:None prop_type:Field,
+        id: HexagonView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4831, file_id:13)) first_def:Some(TokenId(token_index:4831, file_id:13)) edit_info:None prop_type:Instance,
+        id: GradientXView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4837, file_id:13)) first_def:Some(TokenId(token_index:4837, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4841, file_id:13)) first_def:Some(TokenId(token_index:4841, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4845, file_id:13)) first_def:Some(TokenId(token_index:4845, file_id:13)) edit_info:None prop_type:Field,
+        id: color2,
+        value: Color(
+            4278190335,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4849, file_id:13)) first_def:Some(TokenId(token_index:4849, file_id:13)) edit_info:None prop_type:Field,
+        id: dither,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4853, file_id:13)) first_def:Some(TokenId(token_index:4853, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 4852,
+            token_count: 48,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4901, file_id:13)) first_def:Some(TokenId(token_index:4901, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 4900,
+            token_count: 20,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4920, file_id:13)) first_def:Some(TokenId(token_index:4920, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4921, file_id:13)) first_def:Some(TokenId(token_index:4921, file_id:13)) edit_info:None prop_type:Field,
+        id: GradientXView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4922, file_id:13)) first_def:Some(TokenId(token_index:4922, file_id:13)) edit_info:None prop_type:Instance,
+        id: GradientYView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4928, file_id:13)) first_def:Some(TokenId(token_index:4928, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4932, file_id:13)) first_def:Some(TokenId(token_index:4932, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4936, file_id:13)) first_def:Some(TokenId(token_index:4936, file_id:13)) edit_info:None prop_type:Field,
+        id: color2,
+        value: Color(
+            4278190335,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4940, file_id:13)) first_def:Some(TokenId(token_index:4940, file_id:13)) edit_info:None prop_type:Field,
+        id: dither,
+        value: Float64(
+            1.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4944, file_id:13)) first_def:Some(TokenId(token_index:4944, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 4943,
+            token_count: 48,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4992, file_id:13)) first_def:Some(TokenId(token_index:4992, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 4991,
+            token_count: 20,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5011, file_id:13)) first_def:Some(TokenId(token_index:5011, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5012, file_id:13)) first_def:Some(TokenId(token_index:5012, file_id:13)) edit_info:None prop_type:Field,
+        id: GradientYView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5013, file_id:13)) first_def:Some(TokenId(token_index:5013, file_id:13)) edit_info:None prop_type:Instance,
+        id: CachedView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5019, file_id:13)) first_def:Some(TokenId(token_index:5019, file_id:13)) edit_info:None prop_type:Field,
+        id: optimize,
+        value: BareEnum(
+            Texture,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5023, file_id:13)) first_def:Some(TokenId(token_index:5023, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5027, file_id:13)) first_def:Some(TokenId(token_index:5027, file_id:13)) edit_info:None prop_type:Field,
+        id: image,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5031, file_id:13)) first_def:Some(TokenId(token_index:5031, file_id:13)) edit_info:None prop_type:Field,
+        id: marked,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5036, file_id:13)) first_def:Some(TokenId(token_index:5036, file_id:13)) edit_info:None prop_type:Field,
+        id: scale,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5040, file_id:13)) first_def:Some(TokenId(token_index:5040, file_id:13)) edit_info:None prop_type:Field,
+        id: shift,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5044, file_id:13)) first_def:Some(TokenId(token_index:5044, file_id:13)) edit_info:None prop_type:Instance,
+        id: vertex,
+        value: DSL {
+            token_start: 5043,
+            token_count: 79,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5123, file_id:13)) first_def:Some(TokenId(token_index:5123, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 5122,
+            token_count: 42,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5164, file_id:13)) first_def:Some(TokenId(token_index:5164, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5165, file_id:13)) first_def:Some(TokenId(token_index:5165, file_id:13)) edit_info:None prop_type:Field,
+        id: CachedView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5166, file_id:13)) first_def:Some(TokenId(token_index:5166, file_id:13)) edit_info:None prop_type:Instance,
+        id: CachedRoundedView,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5172, file_id:13)) first_def:Some(TokenId(token_index:5172, file_id:13)) edit_info:None prop_type:Field,
+        id: optimize,
+        value: BareEnum(
+            Texture,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5176, file_id:13)) first_def:Some(TokenId(token_index:5176, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5180, file_id:13)) first_def:Some(TokenId(token_index:5180, file_id:13)) edit_info:None prop_type:Field,
+        id: border_width,
+        value: Float64(
+            0.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5184, file_id:13)) first_def:Some(TokenId(token_index:5184, file_id:13)) edit_info:None prop_type:Field,
+        id: border_color,
+        value: Color(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5188, file_id:13)) first_def:Some(TokenId(token_index:5188, file_id:13)) edit_info:None prop_type:Field,
+        id: inset,
+        value: Vec4(
+            Vec4 {
+                x: 0.0,
+                y: 0.0,
+                z: 0.0,
+                w: 0.0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5201, file_id:13)) first_def:Some(TokenId(token_index:5201, file_id:13)) edit_info:None prop_type:Field,
+        id: radius,
+        value: Float64(
+            2.5,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5205, file_id:13)) first_def:Some(TokenId(token_index:5205, file_id:13)) edit_info:None prop_type:Field,
+        id: image,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5209, file_id:13)) first_def:Some(TokenId(token_index:5209, file_id:13)) edit_info:None prop_type:Field,
+        id: marked,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5214, file_id:13)) first_def:Some(TokenId(token_index:5214, file_id:13)) edit_info:None prop_type:Field,
+        id: scale,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5218, file_id:13)) first_def:Some(TokenId(token_index:5218, file_id:13)) edit_info:None prop_type:Field,
+        id: shift,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5222, file_id:13)) first_def:Some(TokenId(token_index:5222, file_id:13)) edit_info:None prop_type:Instance,
+        id: get_border_color,
+        value: DSL {
+            token_start: 5221,
+            token_count: 13,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5235, file_id:13)) first_def:Some(TokenId(token_index:5235, file_id:13)) edit_info:None prop_type:Instance,
+        id: vertex,
+        value: DSL {
+            token_start: 5234,
+            token_count: 79,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5314, file_id:13)) first_def:Some(TokenId(token_index:5314, file_id:13)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 5313,
+            token_count: 165,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5478, file_id:13)) first_def:Some(TokenId(token_index:5478, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5479, file_id:13)) first_def:Some(TokenId(token_index:5479, file_id:13)) edit_info:None prop_type:Field,
+        id: CachedRoundedView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5480, file_id:13)) first_def:Some(TokenId(token_index:5480, file_id:13)) edit_info:None prop_type:Instance,
+        id: ExpandablePanel,
+        value: Clone {
+            clone: ExpandablePanelBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5486, file_id:13)) first_def:Some(TokenId(token_index:5486, file_id:13)) edit_info:None prop_type:Field,
+        id: flow,
+        value: BareEnum(
+            Overlay,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5490, file_id:13)) first_def:Some(TokenId(token_index:5490, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: BareEnum(
+            Fill,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5494, file_id:13)) first_def:Some(TokenId(token_index:5494, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: BareEnum(
+            Fill,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5498, file_id:13)) first_def:Some(TokenId(token_index:5498, file_id:13)) edit_info:None prop_type:Field,
+        id: initial_offset,
+        value: Float64(
+            400.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5502, file_id:13)) first_def:Some(TokenId(token_index:5502, file_id:13)) edit_info:None prop_type:Instance,
+        id: body,
+        value: Clone {
+            clone: View,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5508, file_id:13)) first_def:Some(TokenId(token_index:5508, file_id:13)) edit_info:None prop_type:Field,
+        id: body,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5509, file_id:13)) first_def:Some(TokenId(token_index:5509, file_id:13)) edit_info:None prop_type:Instance,
+        id: panel,
+        value: Clone {
+            clone: View,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5515, file_id:13)) first_def:Some(TokenId(token_index:5515, file_id:13)) edit_info:None prop_type:Field,
+        id: flow,
+        value: BareEnum(
+            Down,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5519, file_id:13)) first_def:Some(TokenId(token_index:5519, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: BareEnum(
+            Fill,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5523, file_id:13)) first_def:Some(TokenId(token_index:5523, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: BareEnum(
+            Fit,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5527, file_id:13)) first_def:Some(TokenId(token_index:5527, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5531, file_id:13)) first_def:Some(TokenId(token_index:5531, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5534, file_id:13)) first_def:Some(TokenId(token_index:5534, file_id:13)) edit_info:None prop_type:Field,
+        id: color,
+        value: Color(
+            4294967295,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5537, file_id:13)) first_def:Some(TokenId(token_index:5537, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5538, file_id:13)) first_def:Some(TokenId(token_index:5538, file_id:13)) edit_info:None prop_type:Field,
+        id: align,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5541, file_id:13)) first_def:Some(TokenId(token_index:5541, file_id:13)) edit_info:None prop_type:Field,
+        id: x,
+        value: Float64(
+            0.5,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5545, file_id:13)) first_def:Some(TokenId(token_index:5545, file_id:13)) edit_info:None prop_type:Field,
+        id: y,
+        value: Int64(
+            0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5548, file_id:13)) first_def:Some(TokenId(token_index:5548, file_id:13)) edit_info:None prop_type:Field,
+        id: align,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5549, file_id:13)) first_def:Some(TokenId(token_index:5549, file_id:13)) edit_info:None prop_type:Field,
+        id: padding,
+        value: Int64(
+            20,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5553, file_id:13)) first_def:Some(TokenId(token_index:5553, file_id:13)) edit_info:None prop_type:Field,
+        id: spacing,
+        value: Int64(
+            10,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5557, file_id:13)) first_def:Some(TokenId(token_index:5557, file_id:13)) edit_info:None prop_type:Instance,
+        id: scroll_handler,
+        value: Clone {
+            clone: RoundedView,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5563, file_id:13)) first_def:Some(TokenId(token_index:5563, file_id:13)) edit_info:None prop_type:Field,
+        id: width,
+        value: Int64(
+            40,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5567, file_id:13)) first_def:Some(TokenId(token_index:5567, file_id:13)) edit_info:None prop_type:Field,
+        id: height,
+        value: Int64(
+            6,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5571, file_id:13)) first_def:Some(TokenId(token_index:5571, file_id:13)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5575, file_id:13)) first_def:Some(TokenId(token_index:5575, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5578, file_id:13)) first_def:Some(TokenId(token_index:5578, file_id:13)) edit_info:None prop_type:Field,
+        id: color,
+        value: Color(
+            858993663,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5581, file_id:13)) first_def:Some(TokenId(token_index:5581, file_id:13)) edit_info:None prop_type:Field,
+        id: radius,
+        value: Float64(
+            2.0,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5584, file_id:13)) first_def:Some(TokenId(token_index:5584, file_id:13)) edit_info:None prop_type:Field,
+        id: draw_bg,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5585, file_id:13)) first_def:Some(TokenId(token_index:5585, file_id:13)) edit_info:None prop_type:Field,
+        id: scroll_handler,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5586, file_id:13)) first_def:Some(TokenId(token_index:5586, file_id:13)) edit_info:None prop_type:Field,
+        id: panel,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5587, file_id:13)) first_def:Some(TokenId(token_index:5587, file_id:13)) edit_info:None prop_type:Field,
+        id: ExpandablePanel,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5588, file_id:13)) first_def:Some(TokenId(token_index:5588, file_id:13)) edit_info:None prop_type:Instance,
+        id: MultiWindow,
+        value: Clone {
+            clone: MultiWindowBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5594, file_id:13)) first_def:Some(TokenId(token_index:5594, file_id:13)) edit_info:None prop_type:Field,
+        id: MultiWindow,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5595, file_id:13)) first_def:Some(TokenId(token_index:5595, file_id:13)) edit_info:None prop_type:Instance,
+        id: PageFlip,
+        value: Clone {
+            clone: PageFlipBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5601, file_id:13)) first_def:Some(TokenId(token_index:5601, file_id:13)) edit_info:None prop_type:Field,
+        id: PageFlip,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5602, file_id:13)) first_def:Some(TokenId(token_index:5602, file_id:13)) edit_info:None prop_type:Instance,
+        id: KeyboardView,
+        value: Clone {
+            clone: KeyboardViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5608, file_id:13)) first_def:Some(TokenId(token_index:5608, file_id:13)) edit_info:None prop_type:Field,
+        id: KeyboardView,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5609, file_id:13)) first_def:Some(TokenId(token_index:5609, file_id:13)) edit_info:None prop_type:Instance,
+        id: RootBase,
+        value: Clone {
+            clone: RootBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5615, file_id:13)) first_def:Some(TokenId(token_index:5615, file_id:13)) edit_info:None prop_type:Field,
+        id: RootBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5616, file_id:13)) first_def:Some(TokenId(token_index:5616, file_id:13)) edit_info:None prop_type:Instance,
+        id: HtmlBase,
+        value: Clone {
+            clone: HtmlBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5622, file_id:13)) first_def:Some(TokenId(token_index:5622, file_id:13)) edit_info:None prop_type:Field,
+        id: HtmlBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5623, file_id:13)) first_def:Some(TokenId(token_index:5623, file_id:13)) edit_info:None prop_type:Instance,
+        id: HtmlLinkBase,
+        value: Clone {
+            clone: HtmlLinkBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5629, file_id:13)) first_def:Some(TokenId(token_index:5629, file_id:13)) edit_info:None prop_type:Field,
+        id: HtmlLinkBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5630, file_id:13)) first_def:Some(TokenId(token_index:5630, file_id:13)) edit_info:None prop_type:Instance,
+        id: TextFlowBase,
+        value: Clone {
+            clone: TextFlowBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5636, file_id:13)) first_def:Some(TokenId(token_index:5636, file_id:13)) edit_info:None prop_type:Field,
+        id: TextFlowBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5637, file_id:13)) first_def:Some(TokenId(token_index:5637, file_id:13)) edit_info:None prop_type:Instance,
+        id: TextFlowLinkBase,
+        value: Clone {
+            clone: TextFlowLinkBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5643, file_id:13)) first_def:Some(TokenId(token_index:5643, file_id:13)) edit_info:None prop_type:Field,
+        id: TextFlowLinkBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5644, file_id:13)) first_def:Some(TokenId(token_index:5644, file_id:13)) edit_info:None prop_type:Instance,
+        id: MarkdownBase,
+        value: Clone {
+            clone: MarkdownBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5650, file_id:13)) first_def:Some(TokenId(token_index:5650, file_id:13)) edit_info:None prop_type:Field,
+        id: MarkdownBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5651, file_id:13)) first_def:Some(TokenId(token_index:5651, file_id:13)) edit_info:None prop_type:Instance,
+        id: MarkdownLinkBase,
+        value: Clone {
+            clone: MarkdownLinkBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5657, file_id:13)) first_def:Some(TokenId(token_index:5657, file_id:13)) edit_info:None prop_type:Field,
+        id: MarkdownLinkBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5658, file_id:13)) first_def:Some(TokenId(token_index:5658, file_id:13)) edit_info:None prop_type:Instance,
+        id: KeyboardViewBase,
+        value: Clone {
+            clone: KeyboardViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5664, file_id:13)) first_def:Some(TokenId(token_index:5664, file_id:13)) edit_info:None prop_type:Field,
+        id: KeyboardViewBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5665, file_id:13)) first_def:Some(TokenId(token_index:5665, file_id:13)) edit_info:None prop_type:Instance,
+        id: PageFlipBase,
+        value: Clone {
+            clone: PageFlipBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5671, file_id:13)) first_def:Some(TokenId(token_index:5671, file_id:13)) edit_info:None prop_type:Field,
+        id: PageFlipBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5672, file_id:13)) first_def:Some(TokenId(token_index:5672, file_id:13)) edit_info:None prop_type:Instance,
+        id: ViewBase,
+        value: Clone {
+            clone: ViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5678, file_id:13)) first_def:Some(TokenId(token_index:5678, file_id:13)) edit_info:None prop_type:Field,
+        id: ViewBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5679, file_id:13)) first_def:Some(TokenId(token_index:5679, file_id:13)) edit_info:None prop_type:Instance,
+        id: ButtonBase,
+        value: Clone {
+            clone: ButtonBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5685, file_id:13)) first_def:Some(TokenId(token_index:5685, file_id:13)) edit_info:None prop_type:Field,
+        id: ButtonBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5686, file_id:13)) first_def:Some(TokenId(token_index:5686, file_id:13)) edit_info:None prop_type:Instance,
+        id: CheckBoxBase,
+        value: Clone {
+            clone: CheckBoxBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5692, file_id:13)) first_def:Some(TokenId(token_index:5692, file_id:13)) edit_info:None prop_type:Field,
+        id: CheckBoxBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5693, file_id:13)) first_def:Some(TokenId(token_index:5693, file_id:13)) edit_info:None prop_type:Instance,
+        id: DockBase,
+        value: Clone {
+            clone: DockBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5699, file_id:13)) first_def:Some(TokenId(token_index:5699, file_id:13)) edit_info:None prop_type:Field,
+        id: DockBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5700, file_id:13)) first_def:Some(TokenId(token_index:5700, file_id:13)) edit_info:None prop_type:Instance,
+        id: MultiWindowBase,
+        value: Clone {
+            clone: MultiWindowBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5706, file_id:13)) first_def:Some(TokenId(token_index:5706, file_id:13)) edit_info:None prop_type:Field,
+        id: MultiWindowBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5707, file_id:13)) first_def:Some(TokenId(token_index:5707, file_id:13)) edit_info:None prop_type:Instance,
+        id: WindowBase,
+        value: Clone {
+            clone: WindowBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5713, file_id:13)) first_def:Some(TokenId(token_index:5713, file_id:13)) edit_info:None prop_type:Field,
+        id: WindowBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5714, file_id:13)) first_def:Some(TokenId(token_index:5714, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesktopButtonBase,
+        value: Clone {
+            clone: DesktopButtonBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5720, file_id:13)) first_def:Some(TokenId(token_index:5720, file_id:13)) edit_info:None prop_type:Field,
+        id: DesktopButtonBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5721, file_id:13)) first_def:Some(TokenId(token_index:5721, file_id:13)) edit_info:None prop_type:Instance,
+        id: DropDownBase,
+        value: Clone {
+            clone: DropDownBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5727, file_id:13)) first_def:Some(TokenId(token_index:5727, file_id:13)) edit_info:None prop_type:Field,
+        id: DropDownBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5728, file_id:13)) first_def:Some(TokenId(token_index:5728, file_id:13)) edit_info:None prop_type:Instance,
+        id: FileTreeBase,
+        value: Clone {
+            clone: FileTreeBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5734, file_id:13)) first_def:Some(TokenId(token_index:5734, file_id:13)) edit_info:None prop_type:Field,
+        id: FileTreeBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5735, file_id:13)) first_def:Some(TokenId(token_index:5735, file_id:13)) edit_info:None prop_type:Instance,
+        id: FileTreeNodeBase,
+        value: Clone {
+            clone: FileTreeNodeBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5741, file_id:13)) first_def:Some(TokenId(token_index:5741, file_id:13)) edit_info:None prop_type:Field,
+        id: FileTreeNodeBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5742, file_id:13)) first_def:Some(TokenId(token_index:5742, file_id:13)) edit_info:None prop_type:Instance,
+        id: FoldButtonBase,
+        value: Clone {
+            clone: FoldButtonBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5748, file_id:13)) first_def:Some(TokenId(token_index:5748, file_id:13)) edit_info:None prop_type:Field,
+        id: FoldButtonBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5749, file_id:13)) first_def:Some(TokenId(token_index:5749, file_id:13)) edit_info:None prop_type:Instance,
+        id: FoldHeaderBase,
+        value: Clone {
+            clone: FoldHeaderBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5755, file_id:13)) first_def:Some(TokenId(token_index:5755, file_id:13)) edit_info:None prop_type:Field,
+        id: FoldHeaderBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5756, file_id:13)) first_def:Some(TokenId(token_index:5756, file_id:13)) edit_info:None prop_type:Instance,
+        id: ImageBase,
+        value: Clone {
+            clone: ImageBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5762, file_id:13)) first_def:Some(TokenId(token_index:5762, file_id:13)) edit_info:None prop_type:Field,
+        id: ImageBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5763, file_id:13)) first_def:Some(TokenId(token_index:5763, file_id:13)) edit_info:None prop_type:Instance,
+        id: IconBase,
+        value: Clone {
+            clone: IconBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5769, file_id:13)) first_def:Some(TokenId(token_index:5769, file_id:13)) edit_info:None prop_type:Field,
+        id: IconBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5770, file_id:13)) first_def:Some(TokenId(token_index:5770, file_id:13)) edit_info:None prop_type:Instance,
+        id: RotatedImageBase,
+        value: Clone {
+            clone: RotatedImageBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5776, file_id:13)) first_def:Some(TokenId(token_index:5776, file_id:13)) edit_info:None prop_type:Field,
+        id: RotatedImageBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5777, file_id:13)) first_def:Some(TokenId(token_index:5777, file_id:13)) edit_info:None prop_type:Instance,
+        id: ModalBase,
+        value: Clone {
+            clone: ModalBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5783, file_id:13)) first_def:Some(TokenId(token_index:5783, file_id:13)) edit_info:None prop_type:Field,
+        id: ModalBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5784, file_id:13)) first_def:Some(TokenId(token_index:5784, file_id:13)) edit_info:None prop_type:Instance,
+        id: TooltipBase,
+        value: Clone {
+            clone: TooltipBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5790, file_id:13)) first_def:Some(TokenId(token_index:5790, file_id:13)) edit_info:None prop_type:Field,
+        id: TooltipBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5791, file_id:13)) first_def:Some(TokenId(token_index:5791, file_id:13)) edit_info:None prop_type:Instance,
+        id: PopupNotificationBase,
+        value: Clone {
+            clone: PopupNotificationBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5797, file_id:13)) first_def:Some(TokenId(token_index:5797, file_id:13)) edit_info:None prop_type:Field,
+        id: PopupNotificationBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5798, file_id:13)) first_def:Some(TokenId(token_index:5798, file_id:13)) edit_info:None prop_type:Instance,
+        id: VideoBase,
+        value: Clone {
+            clone: VideoBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5804, file_id:13)) first_def:Some(TokenId(token_index:5804, file_id:13)) edit_info:None prop_type:Field,
+        id: VideoBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5805, file_id:13)) first_def:Some(TokenId(token_index:5805, file_id:13)) edit_info:None prop_type:Instance,
+        id: LabelBase,
+        value: Clone {
+            clone: LabelBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5811, file_id:13)) first_def:Some(TokenId(token_index:5811, file_id:13)) edit_info:None prop_type:Field,
+        id: LabelBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5812, file_id:13)) first_def:Some(TokenId(token_index:5812, file_id:13)) edit_info:None prop_type:Instance,
+        id: LinkLabelBase,
+        value: Clone {
+            clone: LinkLabelBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5818, file_id:13)) first_def:Some(TokenId(token_index:5818, file_id:13)) edit_info:None prop_type:Field,
+        id: LinkLabelBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5819, file_id:13)) first_def:Some(TokenId(token_index:5819, file_id:13)) edit_info:None prop_type:Instance,
+        id: PortalListBase,
+        value: Clone {
+            clone: PortalListBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5825, file_id:13)) first_def:Some(TokenId(token_index:5825, file_id:13)) edit_info:None prop_type:Field,
+        id: PortalListBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5826, file_id:13)) first_def:Some(TokenId(token_index:5826, file_id:13)) edit_info:None prop_type:Instance,
+        id: FlatListBase,
+        value: Clone {
+            clone: FlatListBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5832, file_id:13)) first_def:Some(TokenId(token_index:5832, file_id:13)) edit_info:None prop_type:Field,
+        id: FlatListBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5833, file_id:13)) first_def:Some(TokenId(token_index:5833, file_id:13)) edit_info:None prop_type:Instance,
+        id: NavControlBase,
+        value: Clone {
+            clone: NavControlBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5839, file_id:13)) first_def:Some(TokenId(token_index:5839, file_id:13)) edit_info:None prop_type:Field,
+        id: NavControlBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5840, file_id:13)) first_def:Some(TokenId(token_index:5840, file_id:13)) edit_info:None prop_type:Instance,
+        id: PopupMenuBase,
+        value: Clone {
+            clone: PopupMenuBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5846, file_id:13)) first_def:Some(TokenId(token_index:5846, file_id:13)) edit_info:None prop_type:Field,
+        id: PopupMenuBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5847, file_id:13)) first_def:Some(TokenId(token_index:5847, file_id:13)) edit_info:None prop_type:Instance,
+        id: PopupMenuItemBase,
+        value: Clone {
+            clone: PopupMenuItemBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5853, file_id:13)) first_def:Some(TokenId(token_index:5853, file_id:13)) edit_info:None prop_type:Field,
+        id: PopupMenuItemBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5854, file_id:13)) first_def:Some(TokenId(token_index:5854, file_id:13)) edit_info:None prop_type:Instance,
+        id: RadioButtonBase,
+        value: Clone {
+            clone: RadioButtonBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5860, file_id:13)) first_def:Some(TokenId(token_index:5860, file_id:13)) edit_info:None prop_type:Field,
+        id: RadioButtonBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5861, file_id:13)) first_def:Some(TokenId(token_index:5861, file_id:13)) edit_info:None prop_type:Instance,
+        id: ScrollBarBase,
+        value: Clone {
+            clone: ScrollBarBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5867, file_id:13)) first_def:Some(TokenId(token_index:5867, file_id:13)) edit_info:None prop_type:Field,
+        id: ScrollBarBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5868, file_id:13)) first_def:Some(TokenId(token_index:5868, file_id:13)) edit_info:None prop_type:Instance,
+        id: ScrollBarsBase,
+        value: Clone {
+            clone: ScrollBarsBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5874, file_id:13)) first_def:Some(TokenId(token_index:5874, file_id:13)) edit_info:None prop_type:Field,
+        id: ScrollBarsBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5875, file_id:13)) first_def:Some(TokenId(token_index:5875, file_id:13)) edit_info:None prop_type:Instance,
+        id: SlidePanelBase,
+        value: Clone {
+            clone: SlidePanelBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5881, file_id:13)) first_def:Some(TokenId(token_index:5881, file_id:13)) edit_info:None prop_type:Field,
+        id: SlidePanelBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5882, file_id:13)) first_def:Some(TokenId(token_index:5882, file_id:13)) edit_info:None prop_type:Instance,
+        id: SliderBase,
+        value: Clone {
+            clone: SliderBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5888, file_id:13)) first_def:Some(TokenId(token_index:5888, file_id:13)) edit_info:None prop_type:Field,
+        id: SliderBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5889, file_id:13)) first_def:Some(TokenId(token_index:5889, file_id:13)) edit_info:None prop_type:Instance,
+        id: SlidesViewBase,
+        value: Clone {
+            clone: SlidesViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5895, file_id:13)) first_def:Some(TokenId(token_index:5895, file_id:13)) edit_info:None prop_type:Field,
+        id: SlidesViewBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5896, file_id:13)) first_def:Some(TokenId(token_index:5896, file_id:13)) edit_info:None prop_type:Instance,
+        id: SplitterBase,
+        value: Clone {
+            clone: SplitterBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5902, file_id:13)) first_def:Some(TokenId(token_index:5902, file_id:13)) edit_info:None prop_type:Field,
+        id: SplitterBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5903, file_id:13)) first_def:Some(TokenId(token_index:5903, file_id:13)) edit_info:None prop_type:Instance,
+        id: TabBase,
+        value: Clone {
+            clone: TabBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5909, file_id:13)) first_def:Some(TokenId(token_index:5909, file_id:13)) edit_info:None prop_type:Field,
+        id: TabBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5910, file_id:13)) first_def:Some(TokenId(token_index:5910, file_id:13)) edit_info:None prop_type:Instance,
+        id: TabBarBase,
+        value: Clone {
+            clone: TabBarBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5916, file_id:13)) first_def:Some(TokenId(token_index:5916, file_id:13)) edit_info:None prop_type:Field,
+        id: TabBarBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5917, file_id:13)) first_def:Some(TokenId(token_index:5917, file_id:13)) edit_info:None prop_type:Instance,
+        id: TabCloseButtonBase,
+        value: Clone {
+            clone: TabCloseButtonBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5923, file_id:13)) first_def:Some(TokenId(token_index:5923, file_id:13)) edit_info:None prop_type:Field,
+        id: TabCloseButtonBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5924, file_id:13)) first_def:Some(TokenId(token_index:5924, file_id:13)) edit_info:None prop_type:Instance,
+        id: TextInputBase,
+        value: Clone {
+            clone: TextInputBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5930, file_id:13)) first_def:Some(TokenId(token_index:5930, file_id:13)) edit_info:None prop_type:Field,
+        id: TextInputBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5931, file_id:13)) first_def:Some(TokenId(token_index:5931, file_id:13)) edit_info:None prop_type:Instance,
+        id: DrawScrollShadowBase,
+        value: Clone {
+            clone: DrawScrollShadowBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5937, file_id:13)) first_def:Some(TokenId(token_index:5937, file_id:13)) edit_info:None prop_type:Field,
+        id: DrawScrollShadowBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5938, file_id:13)) first_def:Some(TokenId(token_index:5938, file_id:13)) edit_info:None prop_type:Instance,
+        id: WindowMenuBase,
+        value: Clone {
+            clone: WindowMenuBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5944, file_id:13)) first_def:Some(TokenId(token_index:5944, file_id:13)) edit_info:None prop_type:Field,
+        id: WindowMenuBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5945, file_id:13)) first_def:Some(TokenId(token_index:5945, file_id:13)) edit_info:None prop_type:Instance,
+        id: StackNavigationViewBase,
+        value: Clone {
+            clone: StackNavigationViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5951, file_id:13)) first_def:Some(TokenId(token_index:5951, file_id:13)) edit_info:None prop_type:Field,
+        id: StackNavigationViewBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5952, file_id:13)) first_def:Some(TokenId(token_index:5952, file_id:13)) edit_info:None prop_type:Instance,
+        id: StackNavigationBase,
+        value: Clone {
+            clone: StackNavigationBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5958, file_id:13)) first_def:Some(TokenId(token_index:5958, file_id:13)) edit_info:None prop_type:Field,
+        id: StackNavigationBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5959, file_id:13)) first_def:Some(TokenId(token_index:5959, file_id:13)) edit_info:None prop_type:Instance,
+        id: ExpandablePanelBase,
+        value: Clone {
+            clone: ExpandablePanelBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5965, file_id:13)) first_def:Some(TokenId(token_index:5965, file_id:13)) edit_info:None prop_type:Field,
+        id: ExpandablePanelBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5966, file_id:13)) first_def:Some(TokenId(token_index:5966, file_id:13)) edit_info:None prop_type:Instance,
+        id: BareStep,
+        value: Clone {
+            clone: BareStep,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5972, file_id:13)) first_def:Some(TokenId(token_index:5972, file_id:13)) edit_info:None prop_type:Field,
+        id: BareStep,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5973, file_id:13)) first_def:Some(TokenId(token_index:5973, file_id:13)) edit_info:None prop_type:Instance,
+        id: TurtleStep,
+        value: Clone {
+            clone: TurtleStep,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5979, file_id:13)) first_def:Some(TokenId(token_index:5979, file_id:13)) edit_info:None prop_type:Field,
+        id: TurtleStep,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5980, file_id:13)) first_def:Some(TokenId(token_index:5980, file_id:13)) edit_info:None prop_type:Instance,
+        id: ColorPicker,
+        value: Clone {
+            clone: ColorPicker,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5986, file_id:13)) first_def:Some(TokenId(token_index:5986, file_id:13)) edit_info:None prop_type:Field,
+        id: ColorPicker,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5987, file_id:13)) first_def:Some(TokenId(token_index:5987, file_id:13)) edit_info:None prop_type:Instance,
+        id: TogglePanelBase,
+        value: Clone {
+            clone: TogglePanelBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5993, file_id:13)) first_def:Some(TokenId(token_index:5993, file_id:13)) edit_info:None prop_type:Field,
+        id: TogglePanelBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:5994, file_id:13)) first_def:Some(TokenId(token_index:5994, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerBase,
+        value: Clone {
+            clone: DesignerBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6000, file_id:13)) first_def:Some(TokenId(token_index:6000, file_id:13)) edit_info:None prop_type:Field,
+        id: DesignerBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6001, file_id:13)) first_def:Some(TokenId(token_index:6001, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerOutlineBase,
+        value: Clone {
+            clone: DesignerOutlineBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6007, file_id:13)) first_def:Some(TokenId(token_index:6007, file_id:13)) edit_info:None prop_type:Field,
+        id: DesignerOutlineBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6008, file_id:13)) first_def:Some(TokenId(token_index:6008, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerViewBase,
+        value: Clone {
+            clone: DesignerViewBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6014, file_id:13)) first_def:Some(TokenId(token_index:6014, file_id:13)) edit_info:None prop_type:Field,
+        id: DesignerViewBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6015, file_id:13)) first_def:Some(TokenId(token_index:6015, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerContainerBase,
+        value: Clone {
+            clone: DesignerContainerBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6021, file_id:13)) first_def:Some(TokenId(token_index:6021, file_id:13)) edit_info:None prop_type:Field,
+        id: DesignerContainerBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6022, file_id:13)) first_def:Some(TokenId(token_index:6022, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerOutlineTreeBase,
+        value: Clone {
+            clone: DesignerOutlineTreeBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6028, file_id:13)) first_def:Some(TokenId(token_index:6028, file_id:13)) edit_info:None prop_type:Field,
+        id: DesignerOutlineTreeBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6029, file_id:13)) first_def:Some(TokenId(token_index:6029, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerOutlineTreeNodeBase,
+        value: Clone {
+            clone: DesignerOutlineTreeNodeBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6035, file_id:13)) first_def:Some(TokenId(token_index:6035, file_id:13)) edit_info:None prop_type:Field,
+        id: DesignerOutlineTreeNodeBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6036, file_id:13)) first_def:Some(TokenId(token_index:6036, file_id:13)) edit_info:None prop_type:Instance,
+        id: DesignerToolboxBase,
+        value: Clone {
+            clone: DesignerToolboxBase,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6042, file_id:13)) first_def:Some(TokenId(token_index:6042, file_id:13)) edit_info:None prop_type:Field,
+        id: DesignerToolboxBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6043, file_id:13)) first_def:Some(TokenId(token_index:6043, file_id:13)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

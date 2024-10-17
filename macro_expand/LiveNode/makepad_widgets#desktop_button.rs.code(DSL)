@@ -1,0 +1,2 @@
+makepad_widgets::desktop_button Live DSL
+"import makepad_draw ::shader ::std ::*;DrawDesktopButton ={{dummy}}{}DesktopButtonBase ={{dummy}}{}"

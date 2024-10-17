@@ -1,0 +1,2 @@
+makepad_widgets::scroll_bar Live DSL
+"DrawScrollBar ={{dummy}}{}ScrollBarBase ={{dummy}}{}"

@@ -1,0 +1,140 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:3)) first_def:Some(TokenId(token_index:0, file_id:3)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:3)) first_def:Some(TokenId(token_index:0, file_id:3)) edit_info:None prop_type:Instance,
+        id: DrawText,
+        value: Class {
+            live_type: TypeId(0xd24c3df02548cd7d8dbd17816ca681af),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:3)) first_def:Some(TokenId(token_index:8, file_id:3)) edit_info:None prop_type:Field,
+        id: color,
+        value: Color(
+            4294967295,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:12, file_id:3)) first_def:Some(TokenId(token_index:12, file_id:3)) edit_info:None prop_type:Field,
+        id: tex,
+        value: Id(
+            texture2d,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:16, file_id:3)) first_def:Some(TokenId(token_index:16, file_id:3)) edit_info:None prop_type:Field,
+        id: tex_coord1,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:20, file_id:3)) first_def:Some(TokenId(token_index:20, file_id:3)) edit_info:None prop_type:Field,
+        id: tex_coord2,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:24, file_id:3)) first_def:Some(TokenId(token_index:24, file_id:3)) edit_info:None prop_type:Field,
+        id: tex_coord3,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:28, file_id:3)) first_def:Some(TokenId(token_index:28, file_id:3)) edit_info:None prop_type:Field,
+        id: clipped,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:32, file_id:3)) first_def:Some(TokenId(token_index:32, file_id:3)) edit_info:None prop_type:Field,
+        id: pos,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:36, file_id:3)) first_def:Some(TokenId(token_index:36, file_id:3)) edit_info:None prop_type:Instance,
+        id: vertex,
+        value: DSL {
+            token_start: 35,
+            token_count: 203,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:239, file_id:3)) first_def:Some(TokenId(token_index:239, file_id:3)) edit_info:None prop_type:Instance,
+        id: get_color,
+        value: DSL {
+            token_start: 238,
+            token_count: 14,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:253, file_id:3)) first_def:Some(TokenId(token_index:253, file_id:3)) edit_info:None prop_type:Instance,
+        id: blend_color,
+        value: DSL {
+            token_start: 252,
+            token_count: 15,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:268, file_id:3)) first_def:Some(TokenId(token_index:268, file_id:3)) edit_info:None prop_type:Instance,
+        id: get_brightness,
+        value: DSL {
+            token_start: 267,
+            token_count: 12,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:280, file_id:3)) first_def:Some(TokenId(token_index:280, file_id:3)) edit_info:None prop_type:Instance,
+        id: sample_color,
+        value: DSL {
+            token_start: 279,
+            token_count: 125,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:405, file_id:3)) first_def:Some(TokenId(token_index:405, file_id:3)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 404,
+            token_count: 67,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:471, file_id:3)) first_def:Some(TokenId(token_index:471, file_id:3)) edit_info:None prop_type:Field,
+        id: DrawText,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:472, file_id:3)) first_def:Some(TokenId(token_index:472, file_id:3)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

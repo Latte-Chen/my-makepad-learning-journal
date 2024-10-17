@@ -1,0 +1,80 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:0)) first_def:Some(TokenId(token_index:0, file_id:0)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:0)) first_def:Some(TokenId(token_index:0, file_id:0)) edit_info:None prop_type:Instance,
+        id: DrawQuad,
+        value: Class {
+            live_type: TypeId(0xbbdc2c021ca84f2284960df8956ac797),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:0)) first_def:Some(TokenId(token_index:9, file_id:0)) edit_info:None prop_type:Field,
+        id: pos,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:13, file_id:0)) first_def:Some(TokenId(token_index:13, file_id:0)) edit_info:None prop_type:Instance,
+        id: clip_and_transform_vertex,
+        value: DSL {
+            token_start: 12,
+            token_count: 92,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:105, file_id:0)) first_def:Some(TokenId(token_index:105, file_id:0)) edit_info:None prop_type:Instance,
+        id: transform_vertex,
+        value: DSL {
+            token_start: 104,
+            token_count: 78,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:183, file_id:0)) first_def:Some(TokenId(token_index:183, file_id:0)) edit_info:None prop_type:Instance,
+        id: vertex,
+        value: DSL {
+            token_start: 182,
+            token_count: 22,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:205, file_id:0)) first_def:Some(TokenId(token_index:205, file_id:0)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 204,
+            token_count: 11,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:215, file_id:0)) first_def:Some(TokenId(token_index:215, file_id:0)) edit_info:None prop_type:Field,
+        id: DrawQuad,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:216, file_id:0)) first_def:Some(TokenId(token_index:216, file_id:0)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

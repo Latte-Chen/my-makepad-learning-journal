@@ -1,0 +1,223 @@
+Cx::live_registry::live_files[LiveFileId]::original::tokens
+[
+    TokenWithSpan {
+        span: Span(start:3:0, end:3:6, file_id:69),
+        token: Ident(
+            import,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:7, end:3:22, file_id:69),
+        token: Ident(
+            makepad_widgets,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:23, end:3:25, file_id:69),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:25, end:3:29, file_id:69),
+        token: Ident(
+            base,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:30, end:3:32, file_id:69),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:32, end:3:33, file_id:69),
+        token: Punct(
+            *,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:33, end:3:34, file_id:69),
+        token: Punct(
+            ;,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:34, end:3:40, file_id:69),
+        token: Ident(
+            import,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:41, end:3:56, file_id:69),
+        token: Ident(
+            makepad_widgets,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:57, end:3:59, file_id:69),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:59, end:3:77, file_id:69),
+        token: Ident(
+            theme_desktop_dark,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:78, end:3:80, file_id:69),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:80, end:3:81, file_id:69),
+        token: Punct(
+            *,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:81, end:3:82, file_id:69),
+        token: Punct(
+            ;,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:82, end:3:85, file_id:69),
+        token: Ident(
+            App,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:86, end:3:87, file_id:69),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:87, end:3:88, file_id:69),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:88, end:3:89, file_id:69),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:89, end:3:94, file_id:69),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:94, end:3:95, file_id:69),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:95, end:3:96, file_id:69),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:96, end:3:97, file_id:69),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:97, end:3:99, file_id:69),
+        token: Ident(
+            ui,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:100, end:3:101, file_id:69),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:101, end:3:102, file_id:69),
+        token: Punct(
+            <,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:102, end:3:108, file_id:69),
+        token: Ident(
+            Window,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:109, end:3:110, file_id:69),
+        token: Punct(
+            >,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:110, end:3:111, file_id:69),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:111, end:3:118, file_id:69),
+        token: Ident(
+            show_bg,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:119, end:3:120, file_id:69),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:120, end:3:124, file_id:69),
+        token: Bool(
+            true,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:125, end:3:131, file_id:69),
+        token: Ident(
+            height,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:132, end:3:133, file_id:69),
+        token: Punct(
+            :,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:133, end:3:136, file_id:69),
+        token: Int(
+            200,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:136, end:3:137, file_id:69),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:3:137, end:3:138, file_id:69),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:0:0, end:0:0, file_id:0),
+        token: Eof,
+    },
+]

@@ -1,0 +1,61 @@
+Cx::live_registry::live_files[LiveFileId]::original::tokens
+[
+    TokenWithSpan {
+        span: Span(start:9:0, end:9:19, file_id:68),
+        token: Ident(
+            DesignerToolboxBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:20, end:9:21, file_id:68),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:21, end:9:22, file_id:68),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:22, end:9:23, file_id:68),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:23, end:9:28, file_id:68),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:28, end:9:29, file_id:68),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:29, end:9:30, file_id:68),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:30, end:9:31, file_id:68),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:31, end:9:32, file_id:68),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:0:0, end:0:0, file_id:0),
+        token: Eof,
+    },
+]

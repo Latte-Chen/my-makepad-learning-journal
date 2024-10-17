@@ -1,0 +1,2 @@
+makepad_example_simple::app Live DSL
+"import makepad_widgets ::base ::*;import makepad_widgets ::theme_desktop_dark ::*;App ={{dummy}}{ui :<Window >{show_bg :true height :200}}"

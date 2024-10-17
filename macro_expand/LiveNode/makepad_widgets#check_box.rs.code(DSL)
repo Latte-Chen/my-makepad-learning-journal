@@ -1,0 +1,2 @@
+makepad_widgets::check_box Live DSL
+"DrawCheckBox ={{dummy}}{}CheckBoxBase ={{dummy}}{}"

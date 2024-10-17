@@ -1,0 +1,61 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:41)) first_def:Some(TokenId(token_index:0, file_id:41)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:41)) first_def:Some(TokenId(token_index:0, file_id:41)) edit_info:None prop_type:Instance,
+        id: DrawLabelText,
+        value: Class {
+            live_type: TypeId(0x34b10a55569535212fc48c70b3faec23),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:41)) first_def:Some(TokenId(token_index:8, file_id:41)) edit_info:None prop_type:Field,
+        id: DrawLabelText,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:41)) first_def:Some(TokenId(token_index:9, file_id:41)) edit_info:None prop_type:Instance,
+        id: DropDownBase,
+        value: Class {
+            live_type: TypeId(0xd16255fe4b4b87fcf3a0037ebcc4edc1),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:17, file_id:41)) first_def:Some(TokenId(token_index:17, file_id:41)) edit_info:None prop_type:Field,
+        id: DropDownBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:18, file_id:41)) first_def:Some(TokenId(token_index:18, file_id:41)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

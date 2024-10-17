@@ -1,0 +1,2 @@
+makepad_widgets::text_flow Live DSL
+"DrawFlowBlock ={{dummy}}{}TextFlowBase ={{dummy}}{font_size :8 ,flow :RightWrap ,}TextFlowLinkBase ={{dummy}}{link ={draw_text ={color :#1a0dab}}}"

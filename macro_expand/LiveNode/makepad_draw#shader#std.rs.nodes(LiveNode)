@@ -1,0 +1,673 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:6)) first_def:Some(TokenId(token_index:0, file_id:6)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:6)) first_def:Some(TokenId(token_index:0, file_id:6)) edit_info:None prop_type:Instance,
+        id: PI,
+        value: Float64(
+            3.141592653589793,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3, file_id:6)) first_def:Some(TokenId(token_index:3, file_id:6)) edit_info:None prop_type:Instance,
+        id: E,
+        value: Float64(
+            2.718281828459045,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:6, file_id:6)) first_def:Some(TokenId(token_index:6, file_id:6)) edit_info:None prop_type:Instance,
+        id: LN2,
+        value: Float64(
+            0.6931471805599453,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:6)) first_def:Some(TokenId(token_index:9, file_id:6)) edit_info:None prop_type:Instance,
+        id: LN10,
+        value: Float64(
+            2.302585092994046,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:12, file_id:6)) first_def:Some(TokenId(token_index:12, file_id:6)) edit_info:None prop_type:Instance,
+        id: LOG2E,
+        value: Float64(
+            1.4426950408889634,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:15, file_id:6)) first_def:Some(TokenId(token_index:15, file_id:6)) edit_info:None prop_type:Instance,
+        id: LOG10E,
+        value: Float64(
+            0.4342944819032518,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:18, file_id:6)) first_def:Some(TokenId(token_index:18, file_id:6)) edit_info:None prop_type:Instance,
+        id: SQRT1_2,
+        value: Float64(
+            0.7071067811865476,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:21, file_id:6)) first_def:Some(TokenId(token_index:21, file_id:6)) edit_info:None prop_type:Instance,
+        id: TORAD,
+        value: Float64(
+            0.017453292519943295,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:24, file_id:6)) first_def:Some(TokenId(token_index:24, file_id:6)) edit_info:None prop_type:Instance,
+        id: GOLDEN,
+        value: Float64(
+            1.618033988749895,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:27, file_id:6)) first_def:Some(TokenId(token_index:27, file_id:6)) edit_info:None prop_type:Instance,
+        id: GaussShadow,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:31, file_id:6)) first_def:Some(TokenId(token_index:31, file_id:6)) edit_info:None prop_type:Instance,
+        id: gaussian,
+        value: DSL {
+            token_start: 30,
+            token_count: 50,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:81, file_id:6)) first_def:Some(TokenId(token_index:81, file_id:6)) edit_info:None prop_type:Instance,
+        id: erf_vec2,
+        value: DSL {
+            token_start: 80,
+            token_count: 67,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:148, file_id:6)) first_def:Some(TokenId(token_index:148, file_id:6)) edit_info:None prop_type:Instance,
+        id: erf_vec4,
+        value: DSL {
+            token_start: 147,
+            token_count: 67,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:215, file_id:6)) first_def:Some(TokenId(token_index:215, file_id:6)) edit_info:None prop_type:Instance,
+        id: rounded_box_shadow_x,
+        value: DSL {
+            token_start: 214,
+            token_count: 111,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:326, file_id:6)) first_def:Some(TokenId(token_index:326, file_id:6)) edit_info:None prop_type:Instance,
+        id: rounded_box_shadow,
+        value: DSL {
+            token_start: 325,
+            token_count: 174,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:500, file_id:6)) first_def:Some(TokenId(token_index:500, file_id:6)) edit_info:None prop_type:Instance,
+        id: box_shadow,
+        value: DSL {
+            token_start: 499,
+            token_count: 79,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:578, file_id:6)) first_def:Some(TokenId(token_index:578, file_id:6)) edit_info:None prop_type:Field,
+        id: GaussShadow,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:579, file_id:6)) first_def:Some(TokenId(token_index:579, file_id:6)) edit_info:None prop_type:Instance,
+        id: Math,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:583, file_id:6)) first_def:Some(TokenId(token_index:583, file_id:6)) edit_info:None prop_type:Instance,
+        id: rotate_2d,
+        value: DSL {
+            token_start: 582,
+            token_count: 59,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:642, file_id:6)) first_def:Some(TokenId(token_index:642, file_id:6)) edit_info:None prop_type:Instance,
+        id: random_2d,
+        value: DSL {
+            token_start: 641,
+            token_count: 34,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:675, file_id:6)) first_def:Some(TokenId(token_index:675, file_id:6)) edit_info:None prop_type:Field,
+        id: Math,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:676, file_id:6)) first_def:Some(TokenId(token_index:676, file_id:6)) edit_info:None prop_type:Instance,
+        id: Pal,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:680, file_id:6)) first_def:Some(TokenId(token_index:680, file_id:6)) edit_info:None prop_type:Instance,
+        id: premul,
+        value: DSL {
+            token_start: 679,
+            token_count: 43,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:723, file_id:6)) first_def:Some(TokenId(token_index:723, file_id:6)) edit_info:None prop_type:Instance,
+        id: iq,
+        value: DSL {
+            token_start: 722,
+            token_count: 45,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:768, file_id:6)) first_def:Some(TokenId(token_index:768, file_id:6)) edit_info:None prop_type:Instance,
+        id: iq0,
+        value: DSL {
+            token_start: 767,
+            token_count: 44,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:812, file_id:6)) first_def:Some(TokenId(token_index:812, file_id:6)) edit_info:None prop_type:Instance,
+        id: iq1,
+        value: DSL {
+            token_start: 811,
+            token_count: 55,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:867, file_id:6)) first_def:Some(TokenId(token_index:867, file_id:6)) edit_info:None prop_type:Instance,
+        id: iq2,
+        value: DSL {
+            token_start: 866,
+            token_count: 55,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:922, file_id:6)) first_def:Some(TokenId(token_index:922, file_id:6)) edit_info:None prop_type:Instance,
+        id: iq3,
+        value: DSL {
+            token_start: 921,
+            token_count: 55,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:977, file_id:6)) first_def:Some(TokenId(token_index:977, file_id:6)) edit_info:None prop_type:Instance,
+        id: iq4,
+        value: DSL {
+            token_start: 976,
+            token_count: 55,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1032, file_id:6)) first_def:Some(TokenId(token_index:1032, file_id:6)) edit_info:None prop_type:Instance,
+        id: iq5,
+        value: DSL {
+            token_start: 1031,
+            token_count: 55,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1087, file_id:6)) first_def:Some(TokenId(token_index:1087, file_id:6)) edit_info:None prop_type:Instance,
+        id: iq6,
+        value: DSL {
+            token_start: 1086,
+            token_count: 55,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1142, file_id:6)) first_def:Some(TokenId(token_index:1142, file_id:6)) edit_info:None prop_type:Instance,
+        id: iq7,
+        value: DSL {
+            token_start: 1141,
+            token_count: 55,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1197, file_id:6)) first_def:Some(TokenId(token_index:1197, file_id:6)) edit_info:None prop_type:Instance,
+        id: hsv2rgb,
+        value: DSL {
+            token_start: 1196,
+            token_count: 88,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1285, file_id:6)) first_def:Some(TokenId(token_index:1285, file_id:6)) edit_info:None prop_type:Instance,
+        id: rgb2hsv,
+        value: DSL {
+            token_start: 1284,
+            token_count: 189,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1473, file_id:6)) first_def:Some(TokenId(token_index:1473, file_id:6)) edit_info:None prop_type:Field,
+        id: Pal,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1474, file_id:6)) first_def:Some(TokenId(token_index:1474, file_id:6)) edit_info:None prop_type:Instance,
+        id: Sdf2d,
+        value: Clone {
+            clone: struct,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1479, file_id:6)) first_def:Some(TokenId(token_index:1479, file_id:6)) edit_info:None prop_type:Field,
+        id: pos,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1483, file_id:6)) first_def:Some(TokenId(token_index:1483, file_id:6)) edit_info:None prop_type:Field,
+        id: result,
+        value: Id(
+            vec4,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1487, file_id:6)) first_def:Some(TokenId(token_index:1487, file_id:6)) edit_info:None prop_type:Field,
+        id: last_pos,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1491, file_id:6)) first_def:Some(TokenId(token_index:1491, file_id:6)) edit_info:None prop_type:Field,
+        id: start_pos,
+        value: Id(
+            vec2,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1495, file_id:6)) first_def:Some(TokenId(token_index:1495, file_id:6)) edit_info:None prop_type:Field,
+        id: shape,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1499, file_id:6)) first_def:Some(TokenId(token_index:1499, file_id:6)) edit_info:None prop_type:Field,
+        id: clip,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1503, file_id:6)) first_def:Some(TokenId(token_index:1503, file_id:6)) edit_info:None prop_type:Field,
+        id: has_clip,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1507, file_id:6)) first_def:Some(TokenId(token_index:1507, file_id:6)) edit_info:None prop_type:Field,
+        id: old_shape,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1511, file_id:6)) first_def:Some(TokenId(token_index:1511, file_id:6)) edit_info:None prop_type:Field,
+        id: blur,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1515, file_id:6)) first_def:Some(TokenId(token_index:1515, file_id:6)) edit_info:None prop_type:Field,
+        id: aa,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1519, file_id:6)) first_def:Some(TokenId(token_index:1519, file_id:6)) edit_info:None prop_type:Field,
+        id: scale_factor,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1523, file_id:6)) first_def:Some(TokenId(token_index:1523, file_id:6)) edit_info:None prop_type:Field,
+        id: dist,
+        value: Id(
+            float,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1527, file_id:6)) first_def:Some(TokenId(token_index:1527, file_id:6)) edit_info:None prop_type:Instance,
+        id: antialias,
+        value: DSL {
+            token_start: 1526,
+            token_count: 36,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1563, file_id:6)) first_def:Some(TokenId(token_index:1563, file_id:6)) edit_info:None prop_type:Instance,
+        id: viewport,
+        value: DSL {
+            token_start: 1562,
+            token_count: 65,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1628, file_id:6)) first_def:Some(TokenId(token_index:1628, file_id:6)) edit_info:None prop_type:Instance,
+        id: translate,
+        value: DSL {
+            token_start: 1627,
+            token_count: 34,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1662, file_id:6)) first_def:Some(TokenId(token_index:1662, file_id:6)) edit_info:None prop_type:Instance,
+        id: rotate,
+        value: DSL {
+            token_start: 1661,
+            token_count: 90,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1752, file_id:6)) first_def:Some(TokenId(token_index:1752, file_id:6)) edit_info:None prop_type:Instance,
+        id: scale,
+        value: DSL {
+            token_start: 1751,
+            token_count: 52,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1804, file_id:6)) first_def:Some(TokenId(token_index:1804, file_id:6)) edit_info:None prop_type:Instance,
+        id: clear,
+        value: DSL {
+            token_start: 1803,
+            token_count: 45,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1849, file_id:6)) first_def:Some(TokenId(token_index:1849, file_id:6)) edit_info:None prop_type:Instance,
+        id: calc_blur,
+        value: DSL {
+            token_start: 1848,
+            token_count: 65,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1914, file_id:6)) first_def:Some(TokenId(token_index:1914, file_id:6)) edit_info:None prop_type:Instance,
+        id: fill_keep_premul,
+        value: DSL {
+            token_start: 1913,
+            token_count: 98,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2012, file_id:6)) first_def:Some(TokenId(token_index:2012, file_id:6)) edit_info:None prop_type:Instance,
+        id: fill_premul,
+        value: DSL {
+            token_start: 2011,
+            token_count: 49,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2061, file_id:6)) first_def:Some(TokenId(token_index:2061, file_id:6)) edit_info:None prop_type:Instance,
+        id: fill_keep,
+        value: DSL {
+            token_start: 2060,
+            token_count: 34,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2095, file_id:6)) first_def:Some(TokenId(token_index:2095, file_id:6)) edit_info:None prop_type:Instance,
+        id: fill,
+        value: DSL {
+            token_start: 2094,
+            token_count: 34,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2129, file_id:6)) first_def:Some(TokenId(token_index:2129, file_id:6)) edit_info:None prop_type:Instance,
+        id: stroke_keep,
+        value: DSL {
+            token_start: 2128,
+            token_count: 89,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2218, file_id:6)) first_def:Some(TokenId(token_index:2218, file_id:6)) edit_info:None prop_type:Instance,
+        id: stroke,
+        value: DSL {
+            token_start: 2217,
+            token_count: 55,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2273, file_id:6)) first_def:Some(TokenId(token_index:2273, file_id:6)) edit_info:None prop_type:Instance,
+        id: glow_keep,
+        value: DSL {
+            token_start: 2272,
+            token_count: 86,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2359, file_id:6)) first_def:Some(TokenId(token_index:2359, file_id:6)) edit_info:None prop_type:Instance,
+        id: glow,
+        value: DSL {
+            token_start: 2358,
+            token_count: 55,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2414, file_id:6)) first_def:Some(TokenId(token_index:2414, file_id:6)) edit_info:None prop_type:Instance,
+        id: union,
+        value: DSL {
+            token_start: 2413,
+            token_count: 27,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2441, file_id:6)) first_def:Some(TokenId(token_index:2441, file_id:6)) edit_info:None prop_type:Instance,
+        id: intersect,
+        value: DSL {
+            token_start: 2440,
+            token_count: 27,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2468, file_id:6)) first_def:Some(TokenId(token_index:2468, file_id:6)) edit_info:None prop_type:Instance,
+        id: subtract,
+        value: DSL {
+            token_start: 2467,
+            token_count: 28,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2496, file_id:6)) first_def:Some(TokenId(token_index:2496, file_id:6)) edit_info:None prop_type:Instance,
+        id: gloop,
+        value: DSL {
+            token_start: 2495,
+            token_count: 69,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2565, file_id:6)) first_def:Some(TokenId(token_index:2565, file_id:6)) edit_info:None prop_type:Instance,
+        id: blend,
+        value: DSL {
+            token_start: 2564,
+            token_count: 33,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2598, file_id:6)) first_def:Some(TokenId(token_index:2598, file_id:6)) edit_info:None prop_type:Instance,
+        id: circle,
+        value: DSL {
+            token_start: 2597,
+            token_count: 93,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2691, file_id:6)) first_def:Some(TokenId(token_index:2691, file_id:6)) edit_info:None prop_type:Instance,
+        id: arc2,
+        value: DSL {
+            token_start: 2690,
+            token_count: 119,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2810, file_id:6)) first_def:Some(TokenId(token_index:2810, file_id:6)) edit_info:None prop_type:Instance,
+        id: hline,
+        value: DSL {
+            token_start: 2809,
+            token_count: 66,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:2876, file_id:6)) first_def:Some(TokenId(token_index:2876, file_id:6)) edit_info:None prop_type:Instance,
+        id: box,
+        value: DSL {
+            token_start: 2875,
+            token_count: 139,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3015, file_id:6)) first_def:Some(TokenId(token_index:3015, file_id:6)) edit_info:None prop_type:Instance,
+        id: box_y,
+        value: DSL {
+            token_start: 3014,
+            token_count: 199,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3214, file_id:6)) first_def:Some(TokenId(token_index:3214, file_id:6)) edit_info:None prop_type:Instance,
+        id: box_x,
+        value: DSL {
+            token_start: 3213,
+            token_count: 199,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3413, file_id:6)) first_def:Some(TokenId(token_index:3413, file_id:6)) edit_info:None prop_type:Instance,
+        id: box_all,
+        value: DSL {
+            token_start: 3412,
+            token_count: 313,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3726, file_id:6)) first_def:Some(TokenId(token_index:3726, file_id:6)) edit_info:None prop_type:Instance,
+        id: rect,
+        value: DSL {
+            token_start: 3725,
+            token_count: 125,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3851, file_id:6)) first_def:Some(TokenId(token_index:3851, file_id:6)) edit_info:None prop_type:Instance,
+        id: hexagon,
+        value: DSL {
+            token_start: 3850,
+            token_count: 97,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3948, file_id:6)) first_def:Some(TokenId(token_index:3948, file_id:6)) edit_info:None prop_type:Instance,
+        id: move_to,
+        value: DSL {
+            token_start: 3947,
+            token_count: 31,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:3979, file_id:6)) first_def:Some(TokenId(token_index:3979, file_id:6)) edit_info:None prop_type:Instance,
+        id: line_to,
+        value: DSL {
+            token_start: 3978,
+            token_count: 161,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4140, file_id:6)) first_def:Some(TokenId(token_index:4140, file_id:6)) edit_info:None prop_type:Instance,
+        id: close_path,
+        value: DSL {
+            token_start: 4139,
+            token_count: 25,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4164, file_id:6)) first_def:Some(TokenId(token_index:4164, file_id:6)) edit_info:None prop_type:Field,
+        id: Sdf2d,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:4165, file_id:6)) first_def:Some(TokenId(token_index:4165, file_id:6)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

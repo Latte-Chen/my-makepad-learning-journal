@@ -1,0 +1,37 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:68)) first_def:Some(TokenId(token_index:0, file_id:68)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:68)) first_def:Some(TokenId(token_index:0, file_id:68)) edit_info:None prop_type:Instance,
+        id: DesignerToolboxBase,
+        value: Class {
+            live_type: TypeId(0xea690188e1fb07461963b0d73fd5662b),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:68)) first_def:Some(TokenId(token_index:8, file_id:68)) edit_info:None prop_type:Field,
+        id: DesignerToolboxBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:68)) first_def:Some(TokenId(token_index:9, file_id:68)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

@@ -1,0 +1,85 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:39)) first_def:Some(TokenId(token_index:0, file_id:39)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:39)) first_def:Some(TokenId(token_index:0, file_id:39)) edit_info:None prop_type:Instance,
+        id: DrawRadioButton,
+        value: Class {
+            live_type: TypeId(0x3336e64a4db5616d2ca1d3a444605c0c),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:39)) first_def:Some(TokenId(token_index:8, file_id:39)) edit_info:None prop_type:Field,
+        id: DrawRadioButton,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:39)) first_def:Some(TokenId(token_index:9, file_id:39)) edit_info:None prop_type:Instance,
+        id: RadioButtonBase,
+        value: Class {
+            live_type: TypeId(0x332ef65db2a19f1d576b9e65a74d8693),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:17, file_id:39)) first_def:Some(TokenId(token_index:17, file_id:39)) edit_info:None prop_type:Field,
+        id: RadioButtonBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:18, file_id:39)) first_def:Some(TokenId(token_index:18, file_id:39)) edit_info:None prop_type:Instance,
+        id: RadioButtonGroupBase,
+        value: Class {
+            live_type: TypeId(0xadff52edf99d1402995330c4bb9e7fda),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:26, file_id:39)) first_def:Some(TokenId(token_index:26, file_id:39)) edit_info:None prop_type:Field,
+        id: RadioButtonGroupBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:27, file_id:39)) first_def:Some(TokenId(token_index:27, file_id:39)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

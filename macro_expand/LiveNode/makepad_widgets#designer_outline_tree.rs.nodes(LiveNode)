@@ -1,0 +1,133 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:67)) first_def:Some(TokenId(token_index:0, file_id:67)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:67)) first_def:Some(TokenId(token_index:0, file_id:67)) edit_info:None prop_type:Instance,
+        id: DrawNodeQuad,
+        value: Class {
+            live_type: TypeId(0x791ffafe8caa6a4775d770b4bea8a642),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:67)) first_def:Some(TokenId(token_index:8, file_id:67)) edit_info:None prop_type:Field,
+        id: DrawNodeQuad,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:67)) first_def:Some(TokenId(token_index:9, file_id:67)) edit_info:None prop_type:Instance,
+        id: DrawNodeText,
+        value: Class {
+            live_type: TypeId(0x102fa491b6affd76318c41f8c982ea06),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:17, file_id:67)) first_def:Some(TokenId(token_index:17, file_id:67)) edit_info:None prop_type:Field,
+        id: DrawNodeText,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:18, file_id:67)) first_def:Some(TokenId(token_index:18, file_id:67)) edit_info:None prop_type:Instance,
+        id: DrawNodeIcon,
+        value: Class {
+            live_type: TypeId(0xc06bd741c243f12a4bce09dd8282c732),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:26, file_id:67)) first_def:Some(TokenId(token_index:26, file_id:67)) edit_info:None prop_type:Field,
+        id: DrawNodeIcon,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:27, file_id:67)) first_def:Some(TokenId(token_index:27, file_id:67)) edit_info:None prop_type:Instance,
+        id: DesignerOutlineTreeNodeBase,
+        value: Class {
+            live_type: TypeId(0xb9f9ed83e8f84585db96b88bb3ebf717),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:35, file_id:67)) first_def:Some(TokenId(token_index:35, file_id:67)) edit_info:None prop_type:Field,
+        id: DesignerOutlineTreeNodeBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:36, file_id:67)) first_def:Some(TokenId(token_index:36, file_id:67)) edit_info:None prop_type:Instance,
+        id: DesignerOutlineTreeBase,
+        value: Class {
+            live_type: TypeId(0x881570e7f02098baf0bdb71d5ba3e05c),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:44, file_id:67)) first_def:Some(TokenId(token_index:44, file_id:67)) edit_info:None prop_type:Field,
+        id: DesignerOutlineTreeBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:45, file_id:67)) first_def:Some(TokenId(token_index:45, file_id:67)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

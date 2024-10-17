@@ -1,0 +1,126 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:57)) first_def:Some(TokenId(token_index:0, file_id:57)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:57)) first_def:Some(TokenId(token_index:0, file_id:57)) edit_info:None prop_type:Instance,
+        id: DrawFlowBlock,
+        value: Class {
+            live_type: TypeId(0x476059984f348f31fc816fcfdca7fd1c),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:57)) first_def:Some(TokenId(token_index:8, file_id:57)) edit_info:None prop_type:Field,
+        id: DrawFlowBlock,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:57)) first_def:Some(TokenId(token_index:9, file_id:57)) edit_info:None prop_type:Instance,
+        id: TextFlowBase,
+        value: Class {
+            live_type: TypeId(0x625b18afc0be078ca43ee8a6abe7e8d6),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:17, file_id:57)) first_def:Some(TokenId(token_index:17, file_id:57)) edit_info:None prop_type:Field,
+        id: font_size,
+        value: Int64(
+            8,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:21, file_id:57)) first_def:Some(TokenId(token_index:21, file_id:57)) edit_info:None prop_type:Field,
+        id: flow,
+        value: BareEnum(
+            RightWrap,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:25, file_id:57)) first_def:Some(TokenId(token_index:25, file_id:57)) edit_info:None prop_type:Field,
+        id: TextFlowBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:26, file_id:57)) first_def:Some(TokenId(token_index:26, file_id:57)) edit_info:None prop_type:Instance,
+        id: TextFlowLinkBase,
+        value: Class {
+            live_type: TypeId(0x95b2e10ad3d358a7abb85e823aefa9ff),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:34, file_id:57)) first_def:Some(TokenId(token_index:34, file_id:57)) edit_info:None prop_type:Instance,
+        id: link,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:37, file_id:57)) first_def:Some(TokenId(token_index:37, file_id:57)) edit_info:None prop_type:Instance,
+        id: draw_text,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:40, file_id:57)) first_def:Some(TokenId(token_index:40, file_id:57)) edit_info:None prop_type:Field,
+        id: color,
+        value: Color(
+            437103615,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:43, file_id:57)) first_def:Some(TokenId(token_index:43, file_id:57)) edit_info:None prop_type:Field,
+        id: draw_text,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:44, file_id:57)) first_def:Some(TokenId(token_index:44, file_id:57)) edit_info:None prop_type:Field,
+        id: link,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:45, file_id:57)) first_def:Some(TokenId(token_index:45, file_id:57)) edit_info:None prop_type:Field,
+        id: TextFlowLinkBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:46, file_id:57)) first_def:Some(TokenId(token_index:46, file_id:57)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

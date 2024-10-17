@@ -1,0 +1,169 @@
+Cx::live_registry::live_files[LiveFileId]::original::tokens
+[
+    TokenWithSpan {
+        span: Span(start:9:0, end:9:15, file_id:39),
+        token: Ident(
+            DrawRadioButton,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:16, end:9:17, file_id:39),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:17, end:9:18, file_id:39),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:18, end:9:19, file_id:39),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:19, end:9:24, file_id:39),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:24, end:9:25, file_id:39),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:25, end:9:26, file_id:39),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:26, end:9:27, file_id:39),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:27, end:9:28, file_id:39),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:28, end:9:43, file_id:39),
+        token: Ident(
+            RadioButtonBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:44, end:9:45, file_id:39),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:45, end:9:46, file_id:39),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:46, end:9:47, file_id:39),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:47, end:9:52, file_id:39),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:52, end:9:53, file_id:39),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:53, end:9:54, file_id:39),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:54, end:9:55, file_id:39),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:55, end:9:56, file_id:39),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:56, end:9:76, file_id:39),
+        token: Ident(
+            RadioButtonGroupBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:77, end:9:78, file_id:39),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:78, end:9:79, file_id:39),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:79, end:9:80, file_id:39),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:80, end:9:85, file_id:39),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:85, end:9:86, file_id:39),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:86, end:9:87, file_id:39),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:87, end:9:88, file_id:39),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:9:88, end:9:89, file_id:39),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:0:0, end:0:0, file_id:0),
+        token: Eof,
+    },
+]

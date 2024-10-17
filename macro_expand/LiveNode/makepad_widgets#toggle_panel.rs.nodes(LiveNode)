@@ -1,0 +1,37 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:63)) first_def:Some(TokenId(token_index:0, file_id:63)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:63)) first_def:Some(TokenId(token_index:0, file_id:63)) edit_info:None prop_type:Instance,
+        id: TogglePanelBase,
+        value: Class {
+            live_type: TypeId(0xa26aacabcd6f8faf64b892df4ebd493f),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:63)) first_def:Some(TokenId(token_index:8, file_id:63)) edit_info:None prop_type:Field,
+        id: TogglePanelBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:63)) first_def:Some(TokenId(token_index:9, file_id:63)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

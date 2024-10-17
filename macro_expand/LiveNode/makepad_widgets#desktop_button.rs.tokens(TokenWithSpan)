@@ -1,0 +1,169 @@
+Cx::live_registry::live_files[LiveFileId]::original::tokens
+[
+    TokenWithSpan {
+        span: Span(start:10:0, end:10:6, file_id:33),
+        token: Ident(
+            import,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:7, end:10:19, file_id:33),
+        token: Ident(
+            makepad_draw,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:20, end:10:22, file_id:33),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:22, end:10:28, file_id:33),
+        token: Ident(
+            shader,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:29, end:10:31, file_id:33),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:31, end:10:34, file_id:33),
+        token: Ident(
+            std,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:35, end:10:37, file_id:33),
+        token: Punct(
+            ::,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:37, end:10:38, file_id:33),
+        token: Punct(
+            *,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:38, end:10:39, file_id:33),
+        token: Punct(
+            ;,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:39, end:10:56, file_id:33),
+        token: Ident(
+            DrawDesktopButton,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:57, end:10:58, file_id:33),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:58, end:10:59, file_id:33),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:59, end:10:60, file_id:33),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:60, end:10:65, file_id:33),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:65, end:10:66, file_id:33),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:66, end:10:67, file_id:33),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:67, end:10:68, file_id:33),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:68, end:10:69, file_id:33),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:69, end:10:86, file_id:33),
+        token: Ident(
+            DesktopButtonBase,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:87, end:10:88, file_id:33),
+        token: Punct(
+            =,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:88, end:10:89, file_id:33),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:89, end:10:90, file_id:33),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:90, end:10:95, file_id:33),
+        token: Ident(
+            dummy,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:95, end:10:96, file_id:33),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:96, end:10:97, file_id:33),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:97, end:10:98, file_id:33),
+        token: Open(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:10:98, end:10:99, file_id:33),
+        token: Close(
+            Brace,
+        ),
+    },
+    TokenWithSpan {
+        span: Span(start:0:0, end:0:0, file_id:0),
+        token: Eof,
+    },
+]

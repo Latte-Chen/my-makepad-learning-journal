@@ -1,0 +1,44 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:27)) first_def:Some(TokenId(token_index:0, file_id:27)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:27)) first_def:Some(TokenId(token_index:0, file_id:27)) edit_info:None prop_type:Instance,
+        id: ViewBase,
+        value: Class {
+            live_type: TypeId(0xdf2c8f904b5f4c253128d703835070a5),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:27)) first_def:Some(TokenId(token_index:8, file_id:27)) edit_info:None prop_type:Field,
+        id: debug,
+        value: BareEnum(
+            None,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:11, file_id:27)) first_def:Some(TokenId(token_index:11, file_id:27)) edit_info:None prop_type:Field,
+        id: ViewBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:12, file_id:27)) first_def:Some(TokenId(token_index:12, file_id:27)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

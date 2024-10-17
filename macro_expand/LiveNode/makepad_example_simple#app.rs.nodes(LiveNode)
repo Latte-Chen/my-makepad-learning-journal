@@ -1,0 +1,92 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:69)) first_def:Some(TokenId(token_index:0, file_id:69)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:1, file_id:69)) first_def:Some(TokenId(token_index:1, file_id:69)) edit_info:None prop_type:Instance,
+        id: 0,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    base,
+                ),
+                import_id: 0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:69)) first_def:Some(TokenId(token_index:8, file_id:69)) edit_info:None prop_type:Instance,
+        id: 0,
+        value: Import(
+            LiveImport {
+                module_id: LiveModuleId(
+                    makepad_widgets,
+                    theme_desktop_dark,
+                ),
+                import_id: 0,
+            },
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:14, file_id:69)) first_def:Some(TokenId(token_index:14, file_id:69)) edit_info:None prop_type:Instance,
+        id: App,
+        value: Class {
+            live_type: TypeId(0x7a6c521ce4083f7784dcef2cc192616c),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:22, file_id:69)) first_def:Some(TokenId(token_index:22, file_id:69)) edit_info:None prop_type:Field,
+        id: ui,
+        value: Clone {
+            clone: Window,
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:28, file_id:69)) first_def:Some(TokenId(token_index:28, file_id:69)) edit_info:None prop_type:Field,
+        id: show_bg,
+        value: Bool(
+            true,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:31, file_id:69)) first_def:Some(TokenId(token_index:31, file_id:69)) edit_info:None prop_type:Field,
+        id: height,
+        value: Int64(
+            200,
+        ),
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:34, file_id:69)) first_def:Some(TokenId(token_index:34, file_id:69)) edit_info:None prop_type:Field,
+        id: ui,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:35, file_id:69)) first_def:Some(TokenId(token_index:35, file_id:69)) edit_info:None prop_type:Field,
+        id: App,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:36, file_id:69)) first_def:Some(TokenId(token_index:36, file_id:69)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

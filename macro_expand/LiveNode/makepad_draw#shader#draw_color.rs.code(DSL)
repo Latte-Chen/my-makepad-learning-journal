@@ -1,0 +1,2 @@
+makepad_draw::shader::draw_color Live DSL
+"DrawColor ={{dummy}}{fn pixel(self) ->vec4{return vec4(self .color .rgb *self .color .a ,self .color .a) ;}}"

@@ -1,0 +1,2 @@
+makepad_widgets::text_input Live DSL
+"DrawLabel ={{dummy}}{}TextInputBase ={{dummy}}{}"

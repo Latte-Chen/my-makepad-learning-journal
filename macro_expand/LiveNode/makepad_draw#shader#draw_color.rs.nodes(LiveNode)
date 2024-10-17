@@ -1,0 +1,46 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:1)) first_def:Some(TokenId(token_index:0, file_id:1)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:1)) first_def:Some(TokenId(token_index:0, file_id:1)) edit_info:None prop_type:Instance,
+        id: DrawColor,
+        value: Class {
+            live_type: TypeId(0x3d9b615e073ec4b2703d4e60c5d453a0),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:1)) first_def:Some(TokenId(token_index:9, file_id:1)) edit_info:None prop_type:Instance,
+        id: pixel,
+        value: DSL {
+            token_start: 8,
+            token_count: 31,
+            expand_index: None,
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:39, file_id:1)) first_def:Some(TokenId(token_index:39, file_id:1)) edit_info:None prop_type:Field,
+        id: DrawColor,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:40, file_id:1)) first_def:Some(TokenId(token_index:40, file_id:1)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]

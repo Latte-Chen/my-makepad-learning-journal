@@ -1,0 +1,2 @@
+makepad_widgets::slider Live DSL
+"DrawSlider ={{dummy}}{}SliderBase ={{dummy}}{}"

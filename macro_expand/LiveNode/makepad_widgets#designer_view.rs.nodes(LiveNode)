@@ -1,0 +1,61 @@
+Cx::live_registry::live_files[LiveFileId]::original::nodes
+[
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:65)) first_def:Some(TokenId(token_index:0, file_id:65)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Object,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:0, file_id:65)) first_def:Some(TokenId(token_index:0, file_id:65)) edit_info:None prop_type:Instance,
+        id: DesignerViewBase,
+        value: Class {
+            live_type: TypeId(0x20893ea6bd4b99947a829a159e9a9fe8),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:8, file_id:65)) first_def:Some(TokenId(token_index:8, file_id:65)) edit_info:None prop_type:Field,
+        id: DesignerViewBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:9, file_id:65)) first_def:Some(TokenId(token_index:9, file_id:65)) edit_info:None prop_type:Instance,
+        id: DesignerContainerBase,
+        value: Class {
+            live_type: TypeId(0xfe0f10de7fc6653e7174295f6a8a2f96),
+            class_parent: LivePtr {
+                file_id: LiveFileId(
+                    0,
+                ),
+                generation: LiveFileGeneration(
+                    65535,
+                ),
+                index: 0,
+            },
+            design_info: LiveDesignInfoIndex(
+                4294967295,
+            ),
+        },
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:17, file_id:65)) first_def:Some(TokenId(token_index:17, file_id:65)) edit_info:None prop_type:Field,
+        id: DesignerContainerBase,
+        value: Close,
+    },
+    LiveNode {
+        origin: token_id:Some(TokenId(token_index:18, file_id:65)) first_def:Some(TokenId(token_index:18, file_id:65)) edit_info:None prop_type:Field,
+        id: 0,
+        value: Close,
+    },
+]
