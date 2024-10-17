@@ -1,0 +1,20 @@
+LiveBody {
+    file: "widgets/src/window_menu.rs",
+    cargo_manifest_path: "D:\\workspace\\rustworkspace\\makepad\\widgets",
+    module_path: "makepad_widgets::window_menu",
+    line: 9,
+    column: 1,
+    code: "WindowMenuBase ={{dummy}}{}",
+    live_type_infos: [
+        LiveTypeInfo {
+            live_type: TypeId(0x84ab405b46701d3c1ee17dfccb50d1eb),
+            type_name: WindowMenu,
+            module_id: LiveModuleId(
+                makepad_widgets,
+                window_menu,
+            ),
+            live_ignore: false,
+            fields: [],
+        },
+    ],
+}

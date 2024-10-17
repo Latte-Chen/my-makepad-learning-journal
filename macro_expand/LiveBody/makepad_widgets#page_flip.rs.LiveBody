@@ -1,0 +1,49 @@
+LiveBody {
+    file: "widgets/src/page_flip.rs",
+    cargo_manifest_path: "D:\\workspace\\rustworkspace\\makepad\\widgets",
+    module_path: "makepad_widgets::page_flip",
+    line: 8,
+    column: 1,
+    code: "PageFlipBase ={{dummy}}{}",
+    live_type_infos: [
+        LiveTypeInfo {
+            live_type: TypeId(0x68140383448fc3d58efd10e38e213dc4),
+            type_name: PageFlip,
+            module_id: LiveModuleId(
+                makepad_widgets,
+                page_flip,
+            ),
+            live_ignore: false,
+            fields: [
+                LiveTypeField {
+                    id: lazy_init,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0xf4422d85a423c218b3f9e9b015b11d7e),
+                        type_name: bool,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Live,
+                },
+                LiveTypeField {
+                    id: active_page,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0xeae216219727f4e64855873b9cdf6f09),
+                        type_name: LiveId,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Live,
+                },
+            ],
+        },
+    ],
+}

@@ -1,0 +1,20 @@
+LiveBody {
+    file: "widgets/src/bare_step.rs",
+    cargo_manifest_path: "D:\\workspace\\rustworkspace\\makepad\\widgets",
+    module_path: "makepad_widgets::bare_step",
+    line: 2,
+    column: 1,
+    code: "BareStep ={{dummy}}{}",
+    live_type_infos: [
+        LiveTypeInfo {
+            live_type: TypeId(0xfc788ea35a4419980bceca62a748eaad),
+            type_name: BareStep,
+            module_id: LiveModuleId(
+                makepad_widgets,
+                bare_step,
+            ),
+            live_ignore: false,
+            fields: [],
+        },
+    ],
+}

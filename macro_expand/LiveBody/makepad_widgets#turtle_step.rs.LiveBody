@@ -1,0 +1,20 @@
+LiveBody {
+    file: "widgets/src/turtle_step.rs",
+    cargo_manifest_path: "D:\\workspace\\rustworkspace\\makepad\\widgets",
+    module_path: "makepad_widgets::turtle_step",
+    line: 2,
+    column: 1,
+    code: "TurtleStep ={{dummy}}{}",
+    live_type_infos: [
+        LiveTypeInfo {
+            live_type: TypeId(0x8d00dd5dcea2c37c6e7556600ebf844f),
+            type_name: TurtleStep,
+            module_id: LiveModuleId(
+                makepad_widgets,
+                turtle_step,
+            ),
+            live_ignore: false,
+            fields: [],
+        },
+    ],
+}

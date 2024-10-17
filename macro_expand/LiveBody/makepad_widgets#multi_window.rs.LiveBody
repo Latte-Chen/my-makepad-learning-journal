@@ -1,0 +1,20 @@
+LiveBody {
+    file: "widgets/src/multi_window.rs",
+    cargo_manifest_path: "D:\\workspace\\rustworkspace\\makepad\\widgets",
+    module_path: "makepad_widgets::multi_window",
+    line: 11,
+    column: 1,
+    code: "MultiWindowBase ={{dummy}}{}",
+    live_type_infos: [
+        LiveTypeInfo {
+            live_type: TypeId(0xc633a8092f7b02f907ebf2096cd73f79),
+            type_name: MultiWindow,
+            module_id: LiveModuleId(
+                makepad_widgets,
+                multi_window,
+            ),
+            live_ignore: false,
+            fields: [],
+        },
+    ],
+}

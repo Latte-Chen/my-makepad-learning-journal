@@ -1,0 +1,403 @@
+LiveBody {
+    file: "draw/src/shader/draw_text.rs",
+    cargo_manifest_path: "D:\\workspace\\rustworkspace\\makepad\\draw",
+    module_path: "makepad_draw::shader::draw_text",
+    line: 11,
+    column: 1,
+    code: "DrawText ={{dummy}}{color :#fff texture tex :texture2d varying tex_coord1 :vec2 varying tex_coord2 :vec2 varying tex_coord3 :vec2 varying clipped :vec2 varying pos :vec2 fn vertex(self) ->vec4{let min_pos =vec2(self .rect_pos .x ,self .rect_pos .y) let max_pos =vec2(self .rect_pos .x +self .rect_size .x ,self .rect_pos .y -self .rect_size .y) self .clipped =clamp(mix(min_pos ,max_pos ,self .geom_pos) ,self .draw_clip .xy ,self .draw_clip .zw) let normalized :vec2 =(self .clipped -min_pos)/vec2(self .rect_size .x ,-self .rect_size .y) self .tex_coord1 =mix(vec2(self .font_t1 .x ,1.0 -self .font_t1 .y) ,vec2(self .font_t2 .x ,1.0 -self .font_t2 .y) ,normalized .xy) self .pos =normalized ;return self .camera_projection *(self .camera_view *(self .view_transform *vec4(self .clipped .x ,self .clipped .y ,self .char_depth +self .draw_zbias ,1.)))} fn get_color(self) ->vec4{return self .color ;} fn blend_color(self ,incol :vec4) ->vec4{return incol} fn get_brightness(self) ->float{return 1.0 ;} fn sample_color(self ,scale :float ,pos :vec2) ->vec4{let brightness =self .get_brightness() ;let sdf_radius =8.0 ;let sdf_cutoff =0.25 ;let s =sample2d(self .tex ,pos) .x ;let curve =0.5 ;let texel_coords =pos .xy *4096.0 ;s =clamp((s -(1.0 -sdf_cutoff))*sdf_radius /scale +0.5 ,0.0 ,1.0) ;let col =self .get_color() ;return self .blend_color(vec4(s *col .rgb *brightness *col .a ,s *col .a)) ;} fn pixel(self) ->vec4{let texel_coords =self .tex_coord1 .xy ;let dxt =length(dFdx(texel_coords)) ;let dyt =length(dFdy(texel_coords)) ;let scale =(dxt +dyt)*4096.0 *0.5 ;return self .sample_color(scale ,self .tex_coord1 .xy) ;}}",
+    live_type_infos: [
+        LiveTypeInfo {
+            live_type: TypeId(0xd24c3df02548cd7d8dbd17816ca681af),
+            type_name: DrawText,
+            module_id: LiveModuleId(
+                makepad_draw,
+                shader::draw_text,
+            ),
+            live_ignore: false,
+            fields: [
+                LiveTypeField {
+                    id: geometry,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0xae3cd2a9152ed2fbd56065230cf32a19),
+                        type_name: GeometryQuad2D,
+                        module_id: LiveModuleId(
+                            makepad_draw,
+                            geometry::geometry_gen,
+                        ),
+                        live_ignore: false,
+                        fields: [
+                            LiveTypeField {
+                                id: x1,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0x068dd2e224a3411487a6e9e8d506443e),
+                                    type_name: f32,
+                                    module_id: LiveModuleId(
+                                        makepad_platform,
+                                        live_prims,
+                                    ),
+                                    live_ignore: true,
+                                    fields: [],
+                                },
+                                live_field_kind: Live,
+                            },
+                            LiveTypeField {
+                                id: y1,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0x068dd2e224a3411487a6e9e8d506443e),
+                                    type_name: f32,
+                                    module_id: LiveModuleId(
+                                        makepad_platform,
+                                        live_prims,
+                                    ),
+                                    live_ignore: true,
+                                    fields: [],
+                                },
+                                live_field_kind: Live,
+                            },
+                            LiveTypeField {
+                                id: x2,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0x068dd2e224a3411487a6e9e8d506443e),
+                                    type_name: f32,
+                                    module_id: LiveModuleId(
+                                        makepad_platform,
+                                        live_prims,
+                                    ),
+                                    live_ignore: true,
+                                    fields: [],
+                                },
+                                live_field_kind: Live,
+                            },
+                            LiveTypeField {
+                                id: y2,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0x068dd2e224a3411487a6e9e8d506443e),
+                                    type_name: f32,
+                                    module_id: LiveModuleId(
+                                        makepad_platform,
+                                        live_prims,
+                                    ),
+                                    live_ignore: true,
+                                    fields: [],
+                                },
+                                live_field_kind: Live,
+                            },
+                        ],
+                    },
+                    live_field_kind: Live,
+                },
+                LiveTypeField {
+                    id: text_style,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0xa05a159edb11f2ab5d295f01a59cd1e8),
+                        type_name: TextStyle,
+                        module_id: LiveModuleId(
+                            makepad_draw,
+                            shader::draw_text,
+                        ),
+                        live_ignore: true,
+                        fields: [
+                            LiveTypeField {
+                                id: font,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0xc9d98ae1e9a360f193233bcea68cbce7),
+                                    type_name: Font,
+                                    module_id: LiveModuleId(
+                                        makepad_draw,
+                                        font_atlas,
+                                    ),
+                                    live_ignore: false,
+                                    fields: [
+                                        LiveTypeField {
+                                            id: path,
+                                            live_type_info: LiveTypeInfo {
+                                                live_type: TypeId(0x5dc3b6d54824d8f8639b257d93c019f7),
+                                                type_name: LiveDependency,
+                                                module_id: LiveModuleId(
+                                                    makepad_platform,
+                                                    live_prims,
+                                                ),
+                                                live_ignore: true,
+                                                fields: [],
+                                            },
+                                            live_field_kind: Live,
+                                        },
+                                    ],
+                                },
+                                live_field_kind: Live,
+                            },
+                            LiveTypeField {
+                                id: font2,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0xc9d98ae1e9a360f193233bcea68cbce7),
+                                    type_name: Font,
+                                    module_id: LiveModuleId(
+                                        makepad_draw,
+                                        font_atlas,
+                                    ),
+                                    live_ignore: false,
+                                    fields: [
+                                        LiveTypeField {
+                                            id: path,
+                                            live_type_info: LiveTypeInfo {
+                                                live_type: TypeId(0x5dc3b6d54824d8f8639b257d93c019f7),
+                                                type_name: LiveDependency,
+                                                module_id: LiveModuleId(
+                                                    makepad_platform,
+                                                    live_prims,
+                                                ),
+                                                live_ignore: true,
+                                                fields: [],
+                                            },
+                                            live_field_kind: Live,
+                                        },
+                                    ],
+                                },
+                                live_field_kind: Live,
+                            },
+                            LiveTypeField {
+                                id: font_size,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0xc45c25bfe577a84e0b073a6684adcb7c),
+                                    type_name: f64,
+                                    module_id: LiveModuleId(
+                                        makepad_platform,
+                                        live_prims,
+                                    ),
+                                    live_ignore: true,
+                                    fields: [],
+                                },
+                                live_field_kind: Live,
+                            },
+                            LiveTypeField {
+                                id: line_scale,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0xc45c25bfe577a84e0b073a6684adcb7c),
+                                    type_name: f64,
+                                    module_id: LiveModuleId(
+                                        makepad_platform,
+                                        live_prims,
+                                    ),
+                                    live_ignore: true,
+                                    fields: [],
+                                },
+                                live_field_kind: Live,
+                            },
+                            LiveTypeField {
+                                id: line_spacing,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0xc45c25bfe577a84e0b073a6684adcb7c),
+                                    type_name: f64,
+                                    module_id: LiveModuleId(
+                                        makepad_platform,
+                                        live_prims,
+                                    ),
+                                    live_ignore: true,
+                                    fields: [],
+                                },
+                                live_field_kind: Live,
+                            },
+                            LiveTypeField {
+                                id: height_factor,
+                                live_type_info: LiveTypeInfo {
+                                    live_type: TypeId(0xc45c25bfe577a84e0b073a6684adcb7c),
+                                    type_name: f64,
+                                    module_id: LiveModuleId(
+                                        makepad_platform,
+                                        live_prims,
+                                    ),
+                                    live_ignore: true,
+                                    fields: [],
+                                },
+                                live_field_kind: Live,
+                            },
+                        ],
+                    },
+                    live_field_kind: Live,
+                },
+                LiveTypeField {
+                    id: wrap,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x0f69a1e13f2e8b623b43397b50c2a797),
+                        type_name: TextWrap,
+                        module_id: LiveModuleId(
+                            makepad_draw,
+                            shader::draw_text,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Live,
+                },
+                LiveTypeField {
+                    id: ignore_newlines,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0xf4422d85a423c218b3f9e9b015b11d7e),
+                        type_name: bool,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Live,
+                },
+                LiveTypeField {
+                    id: combine_spaces,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0xf4422d85a423c218b3f9e9b015b11d7e),
+                        type_name: bool,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Live,
+                },
+                LiveTypeField {
+                    id: font_scale,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0xc45c25bfe577a84e0b073a6684adcb7c),
+                        type_name: f64,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Live,
+                },
+                LiveTypeField {
+                    id: draw_depth,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x068dd2e224a3411487a6e9e8d506443e),
+                        type_name: f32,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Live,
+                },
+                LiveTypeField {
+                    id: draw_vars,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x85f3eec7cf73568d0717ce2b7d7715de),
+                        type_name: DrawVars,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            draw_vars,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Deref,
+                },
+                LiveTypeField {
+                    id: color,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x053a0357bff1bb9b1dc82abef4f4d273),
+                        type_name: Vec4,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Live,
+                },
+                LiveTypeField {
+                    id: font_t1,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x808e5677b526f9bae4a5be88061bdbba),
+                        type_name: Vec2,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Calc,
+                },
+                LiveTypeField {
+                    id: font_t2,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x808e5677b526f9bae4a5be88061bdbba),
+                        type_name: Vec2,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Calc,
+                },
+                LiveTypeField {
+                    id: rect_pos,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x808e5677b526f9bae4a5be88061bdbba),
+                        type_name: Vec2,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Calc,
+                },
+                LiveTypeField {
+                    id: rect_size,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x808e5677b526f9bae4a5be88061bdbba),
+                        type_name: Vec2,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Calc,
+                },
+                LiveTypeField {
+                    id: draw_clip,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x053a0357bff1bb9b1dc82abef4f4d273),
+                        type_name: Vec4,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Calc,
+                },
+                LiveTypeField {
+                    id: char_depth,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x068dd2e224a3411487a6e9e8d506443e),
+                        type_name: f32,
+                        module_id: LiveModuleId(
+                            makepad_platform,
+                            live_prims,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Calc,
+                },
+            ],
+        },
+    ],
+}

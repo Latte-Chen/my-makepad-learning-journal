@@ -1,0 +1,20 @@
+LiveBody {
+    file: "widgets/src/root.rs",
+    cargo_manifest_path: "D:\\workspace\\rustworkspace\\makepad\\widgets",
+    module_path: "makepad_widgets::root",
+    line: 10,
+    column: 1,
+    code: "RootBase ={{dummy}}{}",
+    live_type_infos: [
+        LiveTypeInfo {
+            live_type: TypeId(0xbc1302ade1496be73e2532d3f0287121),
+            type_name: Root,
+            module_id: LiveModuleId(
+                makepad_widgets,
+                root,
+            ),
+            live_ignore: false,
+            fields: [],
+        },
+    ],
+}

@@ -1,0 +1,35 @@
+LiveBody {
+    file: "examples/simple/src/app.rs",
+    cargo_manifest_path: "D:\\workspace\\rustworkspace\\makepad\\examples\\simple",
+    module_path: "makepad_example_simple::app",
+    line: 3,
+    column: 1,
+    code: "import makepad_widgets ::base ::*;import makepad_widgets ::theme_desktop_dark ::*;App ={{dummy}}{ui :<Window >{show_bg :true height :200}}",
+    live_type_infos: [
+        LiveTypeInfo {
+            live_type: TypeId(0x7a6c521ce4083f7784dcef2cc192616c),
+            type_name: App,
+            module_id: LiveModuleId(
+                makepad_example_simple,
+                app,
+            ),
+            live_ignore: false,
+            fields: [
+                LiveTypeField {
+                    id: ui,
+                    live_type_info: LiveTypeInfo {
+                        live_type: TypeId(0x6096057750523298ef0cb81fd12ee2f0),
+                        type_name: 0,
+                        module_id: LiveModuleId(
+                            makepad_widgets,
+                            widget,
+                        ),
+                        live_ignore: true,
+                        fields: [],
+                    },
+                    live_field_kind: Live,
+                },
+            ],
+        },
+    ],
+}
